@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T23:02:30+03:00",
+  "generated_at": "2026-09-20T23:04:24+03:00",
   "timezone": "Europe/Istanbul",
   "site": "kaytim.neocities.org",
   "files": [
@@ -108,10 +108,10 @@
     {
       "path": "files.json",
       "is_directory": false,
-      "size": 12581,
+      "size": 109,
       "created_at": "Sun, 20 Sep 2026 19:54:26 -0000",
-      "updated_at": "Sun, 20 Sep 2026 19:54:26 -0000",
-      "sha1_hash": "0e55de14c22dad66d2946ef063698d9b02a483e1"
+      "updated_at": "Sun, 20 Sep 2026 20:03:02 -0000",
+      "sha1_hash": "932f8271dd20a6633c0e93956333bc138463eca8"
     },
     {
       "path": "fuar",
@@ -208,10 +208,10 @@
     {
       "path": "index.html",
       "is_directory": false,
-      "size": 6226,
+      "size": 8421,
       "created_at": "Sun, 24 May 2026 17:44:51 -0000",
-      "updated_at": "Sun, 24 May 2026 18:24:46 -0000",
-      "sha1_hash": "2041919f3935611010ee7d6b180c655eec327fcc"
+      "updated_at": "Sun, 20 Sep 2026 20:03:02 -0000",
+      "sha1_hash": "8bd724a8f1f8d9b523ec6bc67d1247c7a61d2ac1"
     },
     {
       "path": "isg",
