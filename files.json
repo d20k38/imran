@@ -1,77 +1,379 @@
 {
-  "generated_at": "2026-09-21T02:35:14+03:00",
+  "generated_at": "2026-09-21T02:40:16+03:00",
   "timezone": "Europe/Istanbul",
-  "site": "imrann.neocities.org",
+  "site": "kaytim.neocities.org",
   "files": [
     {
-      "path": "depo",
+      "path": "11_6.html",
+      "is_directory": false,
+      "size": 520873,
+      "created_at": "Wed, 15 Jul 2026 16:15:16 -0000",
+      "updated_at": "Wed, 15 Jul 2026 16:15:16 -0000",
+      "sha1_hash": "6027758ff417173c3ed7a805c57810219062d713"
+    },
+    {
+      "path": "Ekonomi_Maarif_.html",
+      "is_directory": false,
+      "size": 39474925,
+      "created_at": "Sun, 20 Sep 2026 19:02:12 -0000",
+      "updated_at": "Sun, 20 Sep 2026 19:02:12 -0000",
+      "sha1_hash": "346fb1818e391abe90e42d83172f796a59717441"
+    },
+    {
+      "path": "ISG9_2026-2027.html",
+      "is_directory": false,
+      "size": 43160866,
+      "created_at": "Sun, 13 Sep 2026 17:29:37 -0000",
+      "updated_at": "Sun, 13 Sep 2026 17:29:37 -0000",
+      "sha1_hash": "1f3f355f6ce428e43d7db2cdc7964eb905698eb2"
+    },
+    {
+      "path": "Mesleki_Gelisim_Atolyesi.html",
+      "is_directory": false,
+      "size": 1445160,
+      "created_at": "Sun, 20 Sep 2026 18:52:31 -0000",
+      "updated_at": "Sun, 20 Sep 2026 18:52:31 -0000",
+      "sha1_hash": "ac914966a57e814dd06da5a5377063ac382dd841"
+    },
+    {
+      "path": "adamas.html",
+      "is_directory": false,
+      "size": 47078,
+      "created_at": "Thu, 17 Sep 2026 04:38:32 -0000",
+      "updated_at": "Thu, 17 Sep 2026 04:38:32 -0000",
+      "sha1_hash": "662d5d64614efc55734093594335b4ab239c20e3"
+    },
+    {
+      "path": "beyan",
       "is_directory": true,
-      "created_at": "Sun, 20 Sep 2026 14:54:44 -0000",
-      "updated_at": "Sun, 20 Sep 2026 14:54:44 -0000"
+      "created_at": "Mon, 25 May 2026 18:50:22 -0000",
+      "updated_at": "Mon, 25 May 2026 18:50:22 -0000"
     },
     {
-      "path": "depo/1. ÜNİTE TEKNOLOJİ VE TASARIM ÖĞRENİYORUM.pdf",
+      "path": "beyan/1001a_gelir_vergisi_beyanname_egitim_modulu.html",
       "is_directory": false,
-      "size": 2120374,
-      "created_at": "Sun, 20 Sep 2026 17:25:54 -0000",
-      "updated_at": "Sun, 20 Sep 2026 17:25:54 -0000",
-      "sha1_hash": "4f7c91c0ba922c891c5c38be60e952183fc95e7a"
+      "size": 26275,
+      "created_at": "Mon, 25 May 2026 18:51:08 -0000",
+      "updated_at": "Mon, 25 May 2026 18:51:08 -0000",
+      "sha1_hash": "a50d8c906aa7edea798e38a4d6c32f15dce05e4f"
     },
     {
-      "path": "depo/2027 2. ÜNİTE  temel tasarım.pdf",
+      "path": "beyan/1010_kurumlar_vergisi_beyanname_egitim_modulu_aciklayici.html",
       "is_directory": false,
-      "size": 3905808,
-      "created_at": "Sun, 20 Sep 2026 17:48:43 -0000",
-      "updated_at": "Sun, 20 Sep 2026 17:48:43 -0000",
-      "sha1_hash": "87183d6c255a37d8927715bec64e0aa8e3201b9e"
+      "size": 23064,
+      "created_at": "Mon, 25 May 2026 18:51:08 -0000",
+      "updated_at": "Mon, 25 May 2026 18:51:08 -0000",
+      "sha1_hash": "644342a0d080bea9bad7c8a7ee6787082d126bc8"
     },
     {
-      "path": "depo/2027 3. ünite tasarım odaklı süreç .pdf",
+      "path": "beyan/1032_gecici_vergi_beyanname_egitim_modulu_20_seviye.html",
       "is_directory": false,
-      "size": 1535193,
-      "created_at": "Sun, 20 Sep 2026 17:25:56 -0000",
-      "updated_at": "Sun, 20 Sep 2026 17:25:56 -0000",
-      "sha1_hash": "098baf02480c0c561c8567a7208afa78a491a77b"
+      "size": 26799,
+      "created_at": "Mon, 25 May 2026 18:51:09 -0000",
+      "updated_at": "Mon, 25 May 2026 18:51:09 -0000",
+      "sha1_hash": "d5e87d313656a6e912fe8687d432a5fff29c9422"
+    },
+    {
+      "path": "beyan/index.html",
+      "is_directory": false,
+      "size": 88161,
+      "created_at": "Mon, 25 May 2026 18:50:55 -0000",
+      "updated_at": "Mon, 25 May 2026 18:50:55 -0000",
+      "sha1_hash": "d33cfb0cef3717082178b401ae512236e7414560"
+    },
+    {
+      "path": "beyan/kdv_1015a_egitim_modulu_yazdirilabilir_A4_alan_numarali.html",
+      "is_directory": false,
+      "size": 27158,
+      "created_at": "Mon, 25 May 2026 18:51:08 -0000",
+      "updated_at": "Mon, 25 May 2026 18:51:08 -0000",
+      "sha1_hash": "0afcb5cf81c41f6784d71b371e5e29429d63760d"
+    },
+    {
+      "path": "beyan/muhtasar_beyanname_1003_yazdirilabilir_kod_duzeltildi.html",
+      "is_directory": false,
+      "size": 33964,
+      "created_at": "Mon, 25 May 2026 18:51:08 -0000",
+      "updated_at": "Mon, 25 May 2026 18:51:08 -0000",
+      "sha1_hash": "93c1317cf55a931bc94a96799f318e8f4642e518"
+    },
+    {
+      "path": "cokdersyars.html",
+      "is_directory": false,
+      "size": 63462,
+      "created_at": "Thu, 17 Sep 2026 04:40:39 -0000",
+      "updated_at": "Thu, 17 Sep 2026 04:40:39 -0000",
+      "sha1_hash": "daf037ee5a40e1bb15d39ed53fe99c2adb5eb194"
     },
     {
       "path": "files.json",
       "is_directory": false,
-      "size": 2528,
-      "created_at": "Sun, 20 Sep 2026 15:26:57 -0000",
-      "updated_at": "Sun, 20 Sep 2026 23:30:28 -0000",
-      "sha1_hash": "d26e00c3f075565d9a167288f9c4eb7b4d2f788d"
+      "size": 12844,
+      "created_at": "Sun, 20 Sep 2026 19:54:26 -0000",
+      "updated_at": "Sun, 20 Sep 2026 23:20:18 -0000",
+      "sha1_hash": "dea37da4512bf247b534c8da98175f9e33a3ca14"
+    },
+    {
+      "path": "fuar",
+      "is_directory": true,
+      "created_at": "Sun, 31 May 2026 20:41:16 -0000",
+      "updated_at": "Sun, 31 May 2026 20:41:16 -0000"
+    },
+    {
+      "path": "fuar/1_dakikada_muhasebeci_ol_8_sinif.html",
+      "is_directory": false,
+      "size": 18251,
+      "created_at": "Sun, 31 May 2026 20:41:54 -0000",
+      "updated_at": "Sun, 31 May 2026 20:41:54 -0000",
+      "sha1_hash": "7e3f870fd2a9a46f1666774287aca10dfcda9c85"
+    },
+    {
+      "path": "fuar/barkodlu_sat_muh_sistemi.html",
+      "is_directory": false,
+      "size": 16488,
+      "created_at": "Sun, 31 May 2026 20:41:54 -0000",
+      "updated_at": "Sun, 31 May 2026 20:41:54 -0000",
+      "sha1_hash": "67f7a3901f40c8cf8a20095dfcb38cddc424448c"
+    },
+    {
+      "path": "fuar/barkodlu_satis_atolyesi_html.html",
+      "is_directory": false,
+      "size": 10794,
+      "created_at": "Sun, 31 May 2026 20:41:54 -0000",
+      "updated_at": "Sun, 31 May 2026 20:41:54 -0000",
+      "sha1_hash": "07a001df63920be128a91e5942ddcf4c739a618c"
+    },
+    {
+      "path": "fuar/index.html",
+      "is_directory": false,
+      "size": 4003,
+      "created_at": "Sun, 31 May 2026 20:41:54 -0000",
+      "updated_at": "Sun, 31 May 2026 20:41:54 -0000",
+      "sha1_hash": "5e7e5507ebb5759453bac1768bb0a908d5403d6d"
+    },
+    {
+      "path": "fuar/muhasebe_adam_asmaca_yarisma(200).html",
+      "is_directory": false,
+      "size": 47078,
+      "created_at": "Sun, 31 May 2026 20:41:55 -0000",
+      "updated_at": "Sun, 31 May 2026 20:41:55 -0000",
+      "sha1_hash": "662d5d64614efc55734093594335b4ab239c20e3"
+    },
+    {
+      "path": "fuar/senin mesleğin hangisi.html",
+      "is_directory": false,
+      "size": 6683,
+      "created_at": "Sun, 31 May 2026 20:41:55 -0000",
+      "updated_at": "Sun, 31 May 2026 20:41:55 -0000",
+      "sha1_hash": "51ad51dc2311c79057f8e1e2fea9956ea638dcc0"
+    },
+    {
+      "path": "fuar/yapay_zaka_muh_simulasyonu.html",
+      "is_directory": false,
+      "size": 159351,
+      "created_at": "Sun, 31 May 2026 20:41:56 -0000",
+      "updated_at": "Sun, 31 May 2026 20:41:56 -0000",
+      "sha1_hash": "b9e8eb0388a546cc4df52337a54812d80c79a136"
+    },
+    {
+      "path": "i.html",
+      "is_directory": false,
+      "size": 43160866,
+      "created_at": "Sun, 13 Sep 2026 17:30:54 -0000",
+      "updated_at": "Sun, 13 Sep 2026 17:30:54 -0000",
+      "sha1_hash": "1f3f355f6ce428e43d7db2cdc7964eb905698eb2"
+    },
+    {
+      "path": "imevrak",
+      "is_directory": true,
+      "created_at": "Wed, 15 Jul 2026 16:14:49 -0000",
+      "updated_at": "Wed, 15 Jul 2026 16:14:49 -0000"
+    },
+    {
+      "path": "imevrak.html",
+      "is_directory": false,
+      "size": 380080,
+      "created_at": "Sun, 14 Jun 2026 21:58:50 -0000",
+      "updated_at": "Mon, 15 Jun 2026 20:58:42 -0000",
+      "sha1_hash": "2a18fe666715e2454db4178ca0f3c5bb9a900307"
+    },
+    {
+      "path": "imevrak/index.html",
+      "is_directory": false,
+      "size": 523350,
+      "created_at": "Mon, 03 Aug 2026 20:02:57 -0000",
+      "updated_at": "Mon, 03 Aug 2026 20:02:57 -0000",
+      "sha1_hash": "afaad3b66bc913d6f514817bb82aba82b53f929d"
     },
     {
       "path": "index.html",
       "is_directory": false,
-      "size": 13796,
-      "created_at": "Sun, 20 Sep 2026 14:41:32 -0000",
-      "updated_at": "Sun, 20 Sep 2026 19:43:54 -0000",
-      "sha1_hash": "c8a2141ab2a3d6f58598899ebbd9ce890c343b3e"
+      "size": 8421,
+      "created_at": "Sun, 24 May 2026 17:44:51 -0000",
+      "updated_at": "Sun, 20 Sep 2026 20:03:02 -0000",
+      "sha1_hash": "8bd724a8f1f8d9b523ec6bc67d1247c7a61d2ac1"
+    },
+    {
+      "path": "isg",
+      "is_directory": true,
+      "created_at": "Sun, 13 Sep 2026 17:34:28 -0000",
+      "updated_at": "Sun, 13 Sep 2026 17:34:28 -0000"
+    },
+    {
+      "path": "isg yarisma-yedek.json",
+      "is_directory": false,
+      "size": 8186,
+      "created_at": "Thu, 17 Sep 2026 21:00:13 -0000",
+      "updated_at": "Thu, 17 Sep 2026 21:00:13 -0000",
+      "sha1_hash": "79664d0a3a834114faa5609e761f6d749660c6c0"
+    },
+    {
+      "path": "isg/ISG9_2026-2027.html",
+      "is_directory": false,
+      "size": 43160866,
+      "created_at": "Sun, 13 Sep 2026 17:35:18 -0000",
+      "updated_at": "Sun, 13 Sep 2026 17:35:18 -0000",
+      "sha1_hash": "1f3f355f6ce428e43d7db2cdc7964eb905698eb2"
+    },
+    {
+      "path": "isg/ISG9_2027.html",
+      "is_directory": false,
+      "size": 43178889,
+      "created_at": "Sun, 13 Sep 2026 17:55:14 -0000",
+      "updated_at": "Sun, 13 Sep 2026 17:55:14 -0000",
+      "sha1_hash": "f41e62ae2fc848dd7140be73c1ba44a7c13ffc6a"
+    },
+    {
+      "path": "isg50soruyarisma-yedek.json",
+      "is_directory": false,
+      "size": 8194,
+      "created_at": "Thu, 17 Sep 2026 21:00:10 -0000",
+      "updated_at": "Thu, 17 Sep 2026 21:00:10 -0000",
+      "sha1_hash": "c20d78301855fc8ae450c41425801a1d647771f4"
+    },
+    {
+      "path": "isgyarışma50soru.html",
+      "is_directory": false,
+      "size": 48516,
+      "created_at": "Thu, 17 Sep 2026 04:43:13 -0000",
+      "updated_at": "Thu, 17 Sep 2026 04:43:13 -0000",
+      "sha1_hash": "fb0b7b0348eec71ba37ac28c8934d232e0a2b8c2"
+    },
+    {
+      "path": "isletme.html",
+      "is_directory": false,
+      "size": 45566,
+      "created_at": "Thu, 17 Sep 2026 04:28:14 -0000",
+      "updated_at": "Thu, 17 Sep 2026 04:28:14 -0000",
+      "sha1_hash": "459e0e24abd9c12897feb787bc8e1d13fd897ff3"
+    },
+    {
+      "path": "isyeri",
+      "is_directory": true,
+      "created_at": "Wed, 09 Sep 2026 13:30:25 -0000",
+      "updated_at": "Wed, 09 Sep 2026 13:30:25 -0000"
+    },
+    {
+      "path": "isyeri/form.html",
+      "is_directory": false,
+      "size": 5892,
+      "created_at": "Wed, 09 Sep 2026 13:36:15 -0000",
+      "updated_at": "Wed, 09 Sep 2026 13:36:15 -0000",
+      "sha1_hash": "0a08367d31bff7a989b6d99783c23bbf202aaa33"
+    },
+    {
+      "path": "isyeri/yonetim.html",
+      "is_directory": false,
+      "size": 11242,
+      "created_at": "Wed, 09 Sep 2026 13:36:16 -0000",
+      "updated_at": "Wed, 09 Sep 2026 13:36:16 -0000",
+      "sha1_hash": "19ab99ca1a9d99f45501b8cbef148ccbbcb418dd"
+    },
+    {
+      "path": "mga2027.html",
+      "is_directory": false,
+      "size": 1111280,
+      "created_at": "Thu, 17 Sep 2026 20:48:02 -0000",
+      "updated_at": "Thu, 17 Sep 2026 20:48:02 -0000",
+      "sha1_hash": "aa9b77c9122033484b77865dfcc25cc39070b1f7"
+    },
+    {
+      "path": "muhasebe_portali.html",
+      "is_directory": false,
+      "size": 31650,
+      "created_at": "Mon, 22 Jun 2026 21:39:56 -0000",
+      "updated_at": "Mon, 22 Jun 2026 21:39:56 -0000",
+      "sha1_hash": "2218ce266af59b1c3fc37d14e59844e45f03ed1d"
+    },
+    {
+      "path": "neocities.png",
+      "is_directory": false,
+      "size": 13232,
+      "created_at": "Sun, 24 May 2026 17:44:52 -0000",
+      "updated_at": "Sun, 24 May 2026 17:44:52 -0000",
+      "sha1_hash": "fd2ee41b1922a39a716cacb88c323d613b0955e4"
     },
     {
       "path": "not_found.html",
       "is_directory": false,
       "size": 347,
-      "created_at": "Sun, 20 Sep 2026 14:41:32 -0000",
-      "updated_at": "Sun, 20 Sep 2026 14:41:32 -0000",
+      "created_at": "Sun, 24 May 2026 17:44:51 -0000",
+      "updated_at": "Sun, 24 May 2026 17:44:51 -0000",
       "sha1_hash": "d7f004e9d3b2eaaa8827f741356f1122dc9eb030"
     },
     {
       "path": "robots.txt",
       "is_directory": false,
       "size": 1335,
-      "created_at": "Sun, 20 Sep 2026 14:41:32 -0000",
-      "updated_at": "Sun, 20 Sep 2026 14:41:32 -0000",
+      "created_at": "Sun, 24 May 2026 17:44:52 -0000",
+      "updated_at": "Sun, 24 May 2026 17:44:52 -0000",
       "sha1_hash": "325cfbf8b4d14d23022694f0e8af7f94a0ea22dc"
     },
     {
       "path": "style.css",
       "is_directory": false,
       "size": 298,
-      "created_at": "Sun, 20 Sep 2026 14:41:32 -0000",
-      "updated_at": "Sun, 20 Sep 2026 14:41:32 -0000",
+      "created_at": "Sun, 24 May 2026 17:44:52 -0000",
+      "updated_at": "Sun, 24 May 2026 17:44:52 -0000",
       "sha1_hash": "e516457acdb0d00710ab62cc257109ef67209ce8"
+    },
+    {
+      "path": "usta",
+      "is_directory": true,
+      "created_at": "Sun, 24 May 2026 18:06:53 -0000",
+      "updated_at": "Sun, 24 May 2026 18:06:53 -0000"
+    },
+    {
+      "path": "usta/index.html",
+      "is_directory": false,
+      "size": 2770,
+      "created_at": "Mon, 25 May 2026 15:27:31 -0000",
+      "updated_at": "Mon, 01 Jun 2026 16:33:18 -0000",
+      "sha1_hash": "ee968375557e985e565021972d166b2721ebc104"
+    },
+    {
+      "path": "usta/kalfalik.html",
+      "is_directory": false,
+      "size": 162784,
+      "created_at": "Mon, 01 Jun 2026 16:27:53 -0000",
+      "updated_at": "Mon, 01 Jun 2026 16:27:53 -0000",
+      "sha1_hash": "8cf5f1a9008325918547de4c0dcfa0489f083cda"
+    },
+    {
+      "path": "usta/ustalik.html",
+      "is_directory": false,
+      "size": 195117,
+      "created_at": "Mon, 01 Jun 2026 16:27:53 -0000",
+      "updated_at": "Mon, 01 Jun 2026 16:27:53 -0000",
+      "sha1_hash": "ec95333c9497ca4f473d148c8a10dc77a9ce8766"
+    },
+    {
+      "path": "vergivebey.html",
+      "is_directory": false,
+      "size": 13736,
+      "created_at": "Mon, 01 Jun 2026 17:15:43 -0000",
+      "updated_at": "Mon, 01 Jun 2026 17:15:43 -0000",
+      "sha1_hash": "045ef22644cec22dae286cd561af9218ac917cbf"
     }
   ]
 }
