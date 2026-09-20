@@ -3,7 +3,8 @@ name: Neocities Dosya Listesini Güncelle
 on:
   workflow_dispatch:
   schedule:
-    - cron: "2-59/5 * * * *"
+    - cron: "*/5 * * * *"
+      timezone: "Europe/Istanbul"
 
 permissions:
   contents: write
@@ -11,9 +12,7 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
-
     steps:
-
       - name: Repository'yi indir
         uses: actions/checkout@v4
 
@@ -22,25 +21,21 @@ jobs:
           NEOCITIES_API_KEY: ${{ secrets.NEOCITIES_API_KEY }}
         run: |
           set -e
-
-          curl --fail --silent --show-error \
-            -H "Authorization: Bearer ${NEOCITIES_API_KEY}" \
-            "https://neocities.org/api/list" \
-            -o neocities-response.json
+          test -n "${NEOCITIES_API_KEY}" || {
+            echo "NEOCITIES_API_KEY GitHub Secret bulunamadı."
+            exit 1
+          }
+          curl --fail --silent --show-error             -H "Authorization: Bearer ${NEOCITIES_API_KEY}"             "https://neocities.org/api/list"             -o neocities-response.json
 
       - name: files.json oluştur
         run: |
-          python3 scripts/build_files_json.py \
-            neocities-response.json \
-            files.json
+          python3 scripts/build_files_json.py neocities-response.json files.json
 
-      - name: files.json değiştiyse GitHub'a kaydet
+      - name: Değişiklik varsa GitHub'a kaydet
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
           git add files.json
-
           if git diff --cached --quiet; then
             echo "Dosya listesinde değişiklik yok."
           else
@@ -53,9 +48,4 @@ jobs:
           NEOCITIES_API_KEY: ${{ secrets.NEOCITIES_API_KEY }}
         run: |
           set -e
-
-          curl --fail --silent --show-error \
-            -X POST \
-            -H "Authorization: Bearer ${NEOCITIES_API_KEY}" \
-            -F "files.json=@files.json" \
-            "https://neocities.org/api/upload"
+          curl --fail --silent --show-error             -X POST             -H "Authorization: Bearer ${NEOCITIES_API_KEY}"             -F "files.json=@files.json"             "https://neocities.org/api/upload"
