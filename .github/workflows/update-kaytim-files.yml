@@ -1,0 +1,57 @@
+name: KAYTIM Neocities Dosya Listesini Güncelle
+
+on:
+  workflow_dispatch:
+  # GitHub zamanlayıcısı yedek olarak bırakılmıştır.
+  schedule:
+    - cron: "17-59/5 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: KAYTIM Neocities dosya listesini al
+        env:
+          KAYTIM_NEOCITIES_API_KEY: ${{ secrets.KAYTIM_NEOCITIES_API_KEY }}
+        run: |
+          set -e
+          test -n "${KAYTIM_NEOCITIES_API_KEY}" || {
+            echo "KAYTIM_NEOCITIES_API_KEY GitHub Secret bulunamadı."
+            exit 1
+          }
+          curl --fail --silent --show-error \
+            -H "Authorization: Bearer ${KAYTIM_NEOCITIES_API_KEY}" \
+            "https://neocities.org/api/list" \
+            -o kaytim-neocities-response.json
+
+      - name: files.json oluştur
+        run: |
+          python3 scripts/build_kaytim_files_json.py kaytim-neocities-response.json files.json
+
+      - name: Değişiklik varsa GitHub'a kaydet
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add files.json
+          if git diff --cached --quiet; then
+            echo "Dosya listesinde değişiklik yok."
+          else
+            git commit -m "KAYTIM dosya listesini güncelle"
+            git push
+          fi
+
+      - name: files.json dosyasını KAYTIM Neocities'e gönder
+        env:
+          KAYTIM_NEOCITIES_API_KEY: ${{ secrets.KAYTIM_NEOCITIES_API_KEY }}
+        run: |
+          set -e
+          curl --fail --silent --show-error \
+            -X POST \
+            -H "Authorization: Bearer ${KAYTIM_NEOCITIES_API_KEY}" \
+            -F "files.json=@files.json" \
+            "https://neocities.org/api/upload"
