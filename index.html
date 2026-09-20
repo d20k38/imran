@@ -1,122 +1,25 @@
-<!DOCTYPE html>
-<html lang="tr">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>İmran | Dosya Merkezi</title>
+<!doctype html><html lang="tr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>İmran Dosya Merkezi</title>
 <style>
-*{box-sizing:border-box;margin:0;padding:0}
-:root{--bg:#f4f7fb;--card:#fff;--text:#172033;--muted:#718096;--border:#e2e8f0;--accent:#2563eb;--accent2:#1d4ed8;--shadow:0 8px 25px rgba(15,23,42,.08)}
-body.dark{--bg:#0f172a;--card:#1e293b;--text:#f8fafc;--muted:#94a3b8;--border:#334155;--accent:#60a5fa;--accent2:#3b82f6}
-body{font-family:Arial,Helvetica,sans-serif;background:var(--bg);color:var(--text);min-height:100vh}
-header{background:linear-gradient(135deg,#1d4ed8,#2563eb);color:#fff;padding:30px 20px;box-shadow:var(--shadow)}
-.header-inner{max-width:1200px;margin:auto;display:flex;align-items:center;justify-content:space-between;gap:20px}
-.logo{display:flex;align-items:center;gap:15px}.logo-icon{width:55px;height:55px;border-radius:14px;background:rgba(255,255,255,.18);display:flex;align-items:center;justify-content:center;font-size:28px}
-.logo h1{font-size:24px;margin-bottom:5px}.logo p{opacity:.85;font-size:14px}
-.theme-btn{border:1px solid rgba(255,255,255,.3);background:rgba(255,255,255,.15);color:#fff;border-radius:10px;padding:10px 14px;cursor:pointer;font-size:18px}
-main{max-width:1200px;margin:30px auto;padding:0 20px}
-.toolbar{background:var(--card);border:1px solid var(--border);border-radius:16px;padding:15px;display:flex;gap:10px;box-shadow:var(--shadow);margin-bottom:25px}
-.search{flex:1;border:1px solid var(--border);background:var(--bg);color:var(--text);border-radius:10px;padding:13px 15px;font-size:15px;outline:none}.search:focus{border-color:var(--accent)}
-select{border:1px solid var(--border);background:var(--bg);color:var(--text);border-radius:10px;padding:0 12px}
-.refresh{border:0;background:var(--accent);color:#fff;border-radius:10px;padding:0 15px;cursor:pointer}
-.section-title{display:flex;justify-content:space-between;align-items:center;margin:25px 0 15px}.section-title h2{font-size:19px}.count{color:var(--muted);font-size:13px}
-.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:16px}
-.card{background:var(--card);border:1px solid var(--border);border-radius:16px;padding:20px;box-shadow:var(--shadow);transition:.2s}.card:hover{transform:translateY(-3px);border-color:var(--accent)}
-.icon{font-size:40px;margin-bottom:14px}.card h3{font-size:16px;word-break:break-word;margin-bottom:7px}.card p{color:var(--muted);font-size:13px;margin-bottom:15px;line-height:1.5}
-.actions{display:flex;gap:8px}.btn{flex:1;text-align:center;text-decoration:none;border-radius:9px;padding:9px 8px;font-size:13px;cursor:pointer;border:1px solid var(--border);color:var(--text);background:var(--bg)}.btn.primary{background:var(--accent);color:#fff;border-color:var(--accent)}
-.empty{text-align:center;padding:50px 20px;color:var(--muted);display:none}
-.status{margin:0 0 18px;padding:10px 14px;border-radius:10px;background:var(--card);border:1px solid var(--border);color:var(--muted);font-size:13px}
-footer{text-align:center;color:var(--muted);font-size:12px;padding:35px 20px}
-@media(max-width:650px){.header-inner{align-items:flex-start}.toolbar{flex-direction:column}select,.refresh{height:44px}.grid{grid-template-columns:1fr 1fr}}
-@media(max-width:430px){.grid{grid-template-columns:1fr}.logo h1{font-size:20px}}
-</style>
-</head>
-<body>
-<header><div class="header-inner">
-<div class="logo"><div class="logo-icon">📁</div><div><h1>İmran Dosya Merkezi</h1><p>imrann.neocities.org</p></div></div>
-<button class="theme-btn" onclick="toggleTheme()" title="Tema değiştir">🌙</button>
-</div></header>
-
-<main>
-<div class="toolbar">
-<input id="search" class="search" type="search" placeholder="🔎 Dosya veya klasör ara..." oninput="filterFiles()">
-<select id="filter" onchange="filterFiles()">
-<option value="all">Tüm dosyalar</option><option value="folder">📁 Klasörler</option>
-<option value="pdf">📕 PDF</option><option value="image">🖼 Görseller</option>
-<option value="html">🌐 Web sayfaları</option><option value="video">🎬 Videolar</option>
-<option value="document">📄 Belgeler</option><option value="other">📦 Diğer</option>
-</select>
-<button class="refresh" onclick="loadFiles()">🔄 Yenile</button>
-</div>
-
-<div id="status" class="status">Dosya listesi yükleniyor…</div>
-<div class="section-title"><h2>📁 Site Dosyaları</h2><span class="count" id="count"></span></div>
-<div id="fileGrid" class="grid"></div>
-<div id="empty" class="empty"><div style="font-size:45px">🔍</div><h3>Dosya bulunamadı</h3><p>Arama veya filtreyi değiştirmeyi deneyin.</p></div>
-</main>
-
-<footer>İmran Dosya Merkezi · Neocities · Liste otomatik olarak Neocities API ile güncellenir.</footer>
-
+*{box-sizing:border-box}body{margin:0;font-family:Arial,sans-serif;background:#f5f7fb;color:#172033}:root{--c:#fff;--b:#e2e8f0;--m:#64748b;--a:#2563eb;--s:#eff6ff}body.dark{background:#0f172a;color:#f8fafc;--c:#1e293b;--b:#334155;--m:#94a3b8;--s:#172554}
+header{background:linear-gradient(135deg,#1d4ed8,#2563eb);color:#fff;padding:28px 20px}.wrap{max-width:1200px;margin:auto}.head{display:flex;justify-content:space-between;align-items:center}.brand{display:flex;gap:14px;align-items:center}.brandicon{font-size:34px}.brand h1{font-size:23px;margin:0 0 4px}.brand p{margin:0;opacity:.85;font-size:13px}.theme,.refresh{border:0;border-radius:10px;padding:10px 13px;cursor:pointer}.theme{background:#ffffff22;color:#fff}.refresh{background:var(--a);color:#fff}
+main{padding:26px 20px}.toolbar{display:flex;gap:10px;background:var(--c);border:1px solid var(--b);padding:14px;border-radius:15px}input,select{background:var(--c);color:inherit;border:1px solid var(--b);border-radius:10px;padding:11px 13px}input{flex:1}.breadcrumb{margin:17px 0;color:var(--m);font-size:14px}.crumb{color:var(--a);cursor:pointer}.sep{margin:0 7px}.status{padding:11px 14px;border-radius:10px;background:var(--s);color:var(--m);font-size:13px;margin-bottom:18px}.title{display:flex;justify-content:space-between;margin:18px 0 12px}.title h2{font-size:19px;margin:0}.count{font-size:13px;color:var(--m)}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(225px,1fr));gap:16px}.card{background:var(--c);border:1px solid var(--b);border-radius:15px;padding:18px;position:relative}.icon{font-size:38px;margin-bottom:11px}.name{font-size:15px;font-weight:700;word-break:break-word}.meta{font-size:12px;color:var(--m);margin:7px 0 14px;line-height:1.45}.actions{display:flex}.btn{display:block;width:100%;text-align:center;text-decoration:none;border-radius:9px;padding:8px;font-size:12px;cursor:pointer;border:1px solid var(--b);background:var(--c);color:inherit}.primary{background:var(--a);border-color:var(--a);color:#fff}.new{position:absolute;right:12px;top:12px;background:#16a34a;color:#fff;border-radius:999px;padding:4px 7px;font-size:10px;font-weight:bold}.empty{text-align:center;color:var(--m);padding:55px 10px}footer{text-align:center;color:var(--m);font-size:12px;padding:30px}
+@media(max-width:650px){.toolbar{flex-direction:column}.grid{grid-template-columns:1fr 1fr}}@media(max-width:430px){.grid{grid-template-columns:1fr}}
+</style></head><body>
+<header><div class="wrap head"><div class="brand"><div class="brandicon">📁</div><div><h1>İmran Dosya Merkezi</h1><p>imrann.neocities.org</p></div></div><button class="theme" onclick="theme()">🌙</button></div></header>
+<main class="wrap"><div class="toolbar"><input id="q" placeholder="🔎 Dosya ara..." oninput="render()"><select id="f" onchange="render()"><option value="all">Tümü</option><option value="folder">📁 Klasörler</option><option value="pdf">📕 PDF</option><option value="image">🖼 Görseller</option><option value="html">🌐 HTML</option><option value="other">📄 Diğer</option></select><button class="refresh" onclick="load()">🔄 Yenile</button></div>
+<div id="bc" class="breadcrumb"></div><div id="status" class="status">Dosya listesi yükleniyor…</div><div class="title"><h2 id="ttl">📁 Ana Dizin</h2><span id="cnt" class="count"></span></div><div id="grid" class="grid"></div><div id="empty" class="empty" hidden>🔍<br>Dosya bulunamadı.</div></main><footer>Otomatik Neocities dosya listesi · <span id="updated"></span></footer>
 <script>
-const DATA_URL="/files.json";
-let files=[];
-
-function typeOf(path,isDir){
-  if(isDir) return "folder";
-  const ext=(path.split(".").pop()||"").toLowerCase();
-  if(ext==="pdf") return "pdf";
-  if(["jpg","jpeg","png","gif","webp","svg","bmp","avif"].includes(ext)) return "image";
-  if(["html","htm"].includes(ext)) return "html";
-  if(["mp4","webm","ogg","mov","m4v"].includes(ext)) return "video";
-  if(["doc","docx","xls","xlsx","ppt","pptx","txt","rtf"].includes(ext)) return "document";
-  return "other";
-}
-function icon(type){return ({folder:"📁",pdf:"📕",image:"🖼️",html:"🌐",video:"🎬",document:"📄",other:"📦"})[type]||"📄"}
-function humanSize(n){
-  if(!Number.isFinite(n)) return "";
-  if(n<1024) return n+" B";
-  if(n<1024*1024) return (n/1024).toFixed(1)+" KB";
-  if(n<1024*1024*1024) return (n/1024/1024).toFixed(1)+" MB";
-  return (n/1024/1024/1024).toFixed(1)+" GB";
-}
-function fileUrl(path){return "/"+path.split("/").map(encodeURIComponent).join("/")}
-function render(list){
-  const grid=document.getElementById("fileGrid"), empty=document.getElementById("empty");
-  grid.innerHTML=""; document.getElementById("count").textContent=list.length+" öğe";
-  empty.style.display=list.length?"none":"block";
-  list.forEach(f=>{
-    const card=document.createElement("div"); card.className="card";
-    const label=f.is_directory?"Klasör":(f.type||"other").toUpperCase();
-    const meta=f.is_directory?label:[label,humanSize(f.size),f.updated_at||""].filter(Boolean).join(" • ");
-    const url=fileUrl(f.path);
-    card.innerHTML=`<div class="icon">${icon(f.type)}</div><h3>${escapeHtml(f.path)}</h3><p>${escapeHtml(meta)}</p>
-      <div class="actions"><a class="btn primary" href="${url}" target="_blank" rel="noopener">${f.is_directory?"Aç":"Görüntüle"}</a></div>`;
-    grid.appendChild(card);
-  });
-}
-function escapeHtml(s){return String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]))}
-function filterFiles(){
-  const q=document.getElementById("search").value.toLowerCase().trim(), t=document.getElementById("filter").value;
-  render(files.filter(f=>(!q||f.path.toLowerCase().includes(q))&&(t==="all"||f.type===t)));
-}
-async function loadFiles(){
-  const status=document.getElementById("status");
-  status.textContent="Dosya listesi yükleniyor…";
-  try{
-    const r=await fetch(DATA_URL+"?t="+Date.now(),{cache:"no-store"});
-    if(!r.ok) throw new Error("files.json bulunamadı");
-    const data=await r.json();
-    files=(data.files||[]).map(f=>({...f,type:typeOf(f.path,f.is_directory)}));
-    filterFiles();
-    status.textContent="Son güncelleme: "+(data.generated_at||"otomatik");
-  }catch(e){
-    files=[]; render([]);
-    status.textContent="Dosya listesi henüz oluşturulmamış. GitHub Actions kurulumu tamamlandığında otomatik gelecektir.";
-  }
-}
-function toggleTheme(){document.body.classList.toggle("dark");localStorage.setItem("imran-theme",document.body.classList.contains("dark")?"dark":"light")}
-if(localStorage.getItem("imran-theme")==="dark")document.body.classList.add("dark");
-loadFiles();
-</script>
-</body>
-</html>
+const DATA="/files.json", imgs=["jpg","jpeg","png","gif","webp","svg","ico","avif"];let all=[],cur="";
+const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const ext=p=>(p.split(".").pop()||"").toLowerCase();
+function typ(f){if(f.is_directory)return"folder";let e=ext(f.path);if(e==="pdf")return"pdf";if(imgs.includes(e))return"image";if(["html","htm"].includes(e))return"html";return"other"}
+function ico(t){return({folder:"📁",pdf:"📕",image:"🖼️",html:"🌐",other:"📄"})[t]}
+function size(n){if(!n)return"";if(n<1024)return n+" B";if(n<1048576)return(n/1024).toFixed(1)+" KB";return(n/1048576).toFixed(1)+" MB"}
+function url(p){return"/"+p.split("/").map(encodeURIComponent).join("/")}
+function go(p){cur=p;document.getElementById("q").value="";render()}
+function bread(){let a=cur?cur.split("/"):[],h='<span class="crumb" onclick="go('')">🏠 Ana Dizin</span>',p="";a.forEach(x=>{p+=(p?"/":"")+x;h+='<span class="sep">/</span><span class="crumb" onclick="go('+JSON.stringify(p)+')">'+esc(x)+'</span>'});document.getElementById("bc").innerHTML=h;document.getElementById("ttl").textContent=a.length?"📁 "+a[a.length-1]:"📁 Ana Dizin"}
+function render(){bread();let pre=cur?cur+"/":"",q=document.getElementById("q").value.toLowerCase().trim(),fl=document.getElementById("f").value;let list=all.filter(x=>x.path.startsWith(pre)&&x.path.slice(pre.length)&&!x.path.slice(pre.length).includes("/")).filter(x=>(!q||x.path.toLowerCase().includes(q))&&(fl==="all"||typ(x)===fl));list.sort((a,b)=>(a.is_directory?-1:1)-(b.is_directory?-1:1)||a.path.localeCompare(b.path,"tr"));document.getElementById("cnt").textContent=list.length+" öğe";document.getElementById("empty").hidden=!!list.length;let g=document.getElementById("grid");g.innerHTML="";list.forEach(x=>{let t=typ(x),n=x.path.split("/").pop(),fresh=x.updated_at&&Date.now()-new Date(x.updated_at).getTime()<7*864e5;g.innerHTML+=`<div class="card">${fresh?'<span class="new">YENİ</span>':''}<div class="icon">${ico(t)}</div><div class="name">${esc(n)}</div><div class="meta">${esc(x.is_directory?"Klasör":[t.toUpperCase(),size(x.size),x.updated_at||""].filter(Boolean).join(" • "))}</div><div class="actions">${x.is_directory?`<button class="btn primary" onclick='go(${JSON.stringify(x.path)})'>İçine gir</button>`:`<a class="btn primary" href="${url(x.path)}" target="_blank" rel="noopener">Aç</a>`}</div></div>`})}
+async function load(){document.getElementById("status").textContent="Neocities dosya listesi güncelleniyor…";try{let r=await fetch(DATA+"?t="+Date.now(),{cache:"no-store"});if(!r.ok)throw 0;let d=await r.json();all=d.files||[];document.getElementById("status").textContent="Liste güncellendi.";document.getElementById("updated").textContent="Son liste: "+(d.generated_at||"bilinmiyor");render()}catch(e){document.getElementById("status").textContent="files.json alınamadı. GitHub Actions'ı kontrol edin.";render()}}
+function theme(){document.body.classList.toggle("dark");localStorage.setItem("imran-theme",document.body.classList.contains("dark")?"dark":"light")}if(localStorage.getItem("imran-theme")==="dark")document.body.classList.add("dark");load();
+</script></body></html>
