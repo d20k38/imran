@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>İmran | Dosya Merkezi</title>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+:root{--bg:#f4f7fb;--card:#fff;--text:#172033;--muted:#718096;--border:#e2e8f0;--accent:#2563eb;--accent2:#1d4ed8;--shadow:0 8px 25px rgba(15,23,42,.08)}
+body.dark{--bg:#0f172a;--card:#1e293b;--text:#f8fafc;--muted:#94a3b8;--border:#334155;--accent:#60a5fa;--accent2:#3b82f6}
+body{font-family:Arial,Helvetica,sans-serif;background:var(--bg);color:var(--text);min-height:100vh}
+header{background:linear-gradient(135deg,#1d4ed8,#2563eb);color:#fff;padding:30px 20px;box-shadow:var(--shadow)}
+.header-inner{max-width:1200px;margin:auto;display:flex;align-items:center;justify-content:space-between;gap:20px}
+.logo{display:flex;align-items:center;gap:15px}.logo-icon{width:55px;height:55px;border-radius:14px;background:rgba(255,255,255,.18);display:flex;align-items:center;justify-content:center;font-size:28px}
+.logo h1{font-size:24px;margin-bottom:5px}.logo p{opacity:.85;font-size:14px}
+.theme-btn{border:1px solid rgba(255,255,255,.3);background:rgba(255,255,255,.15);color:#fff;border-radius:10px;padding:10px 14px;cursor:pointer;font-size:18px}
+main{max-width:1200px;margin:30px auto;padding:0 20px}
+.toolbar{background:var(--card);border:1px solid var(--border);border-radius:16px;padding:15px;display:flex;gap:10px;box-shadow:var(--shadow);margin-bottom:25px}
+.search{flex:1;border:1px solid var(--border);background:var(--bg);color:var(--text);border-radius:10px;padding:13px 15px;font-size:15px;outline:none}.search:focus{border-color:var(--accent)}
+select{border:1px solid var(--border);background:var(--bg);color:var(--text);border-radius:10px;padding:0 12px}
+.refresh{border:0;background:var(--accent);color:#fff;border-radius:10px;padding:0 15px;cursor:pointer}
+.section-title{display:flex;justify-content:space-between;align-items:center;margin:25px 0 15px}.section-title h2{font-size:19px}.count{color:var(--muted);font-size:13px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:16px}
+.card{background:var(--card);border:1px solid var(--border);border-radius:16px;padding:20px;box-shadow:var(--shadow);transition:.2s}.card:hover{transform:translateY(-3px);border-color:var(--accent)}
+.icon{font-size:40px;margin-bottom:14px}.card h3{font-size:16px;word-break:break-word;margin-bottom:7px}.card p{color:var(--muted);font-size:13px;margin-bottom:15px;line-height:1.5}
+.actions{display:flex;gap:8px}.btn{flex:1;text-align:center;text-decoration:none;border-radius:9px;padding:9px 8px;font-size:13px;cursor:pointer;border:1px solid var(--border);color:var(--text);background:var(--bg)}.btn.primary{background:var(--accent);color:#fff;border-color:var(--accent)}
+.empty{text-align:center;padding:50px 20px;color:var(--muted);display:none}
+.status{margin:0 0 18px;padding:10px 14px;border-radius:10px;background:var(--card);border:1px solid var(--border);color:var(--muted);font-size:13px}
+footer{text-align:center;color:var(--muted);font-size:12px;padding:35px 20px}
+@media(max-width:650px){.header-inner{align-items:flex-start}.toolbar{flex-direction:column}select,.refresh{height:44px}.grid{grid-template-columns:1fr 1fr}}
+@media(max-width:430px){.grid{grid-template-columns:1fr}.logo h1{font-size:20px}}
+</style>
+</head>
+<body>
+<header><div class="header-inner">
+<div class="logo"><div class="logo-icon">📁</div><div><h1>İmran Dosya Merkezi</h1><p>imrann.neocities.org</p></div></div>
+<button class="theme-btn" onclick="toggleTheme()" title="Tema değiştir">🌙</button>
+</div></header>
+
+<main>
+<div class="toolbar">
+<input id="search" class="search" type="search" placeholder="🔎 Dosya veya klasör ara..." oninput="filterFiles()">
+<select id="filter" onchange="filterFiles()">
+<option value="all">Tüm dosyalar</option><option value="folder">📁 Klasörler</option>
+<option value="pdf">📕 PDF</option><option value="image">🖼 Görseller</option>
+<option value="html">🌐 Web sayfaları</option><option value="video">🎬 Videolar</option>
+<option value="document">📄 Belgeler</option><option value="other">📦 Diğer</option>
+</select>
+<button class="refresh" onclick="loadFiles()">🔄 Yenile</button>
+</div>
+
+<div id="status" class="status">Dosya listesi yükleniyor…</div>
+<div class="section-title"><h2>📁 Site Dosyaları</h2><span class="count" id="count"></span></div>
+<div id="fileGrid" class="grid"></div>
+<div id="empty" class="empty"><div style="font-size:45px">🔍</div><h3>Dosya bulunamadı</h3><p>Arama veya filtreyi değiştirmeyi deneyin.</p></div>
+</main>
+
+<footer>İmran Dosya Merkezi · Neocities · Liste otomatik olarak Neocities API ile güncellenir.</footer>
+
+<script>
+const DATA_URL="/files.json";
+let files=[];
+
+function typeOf(path,isDir){
+  if(isDir) return "folder";
+  const ext=(path.split(".").pop()||"").toLowerCase();
+  if(ext==="pdf") return "pdf";
+  if(["jpg","jpeg","png","gif","webp","svg","bmp","avif"].includes(ext)) return "image";
+  if(["html","htm"].includes(ext)) return "html";
+  if(["mp4","webm","ogg","mov","m4v"].includes(ext)) return "video";
+  if(["doc","docx","xls","xlsx","ppt","pptx","txt","rtf"].includes(ext)) return "document";
+  return "other";
+}
+function icon(type){return ({folder:"📁",pdf:"📕",image:"🖼️",html:"🌐",video:"🎬",document:"📄",other:"📦"})[type]||"📄"}
+function humanSize(n){
+  if(!Number.isFinite(n)) return "";
+  if(n<1024) return n+" B";
+  if(n<1024*1024) return (n/1024).toFixed(1)+" KB";
+  if(n<1024*1024*1024) return (n/1024/1024).toFixed(1)+" MB";
+  return (n/1024/1024/1024).toFixed(1)+" GB";
+}
+function fileUrl(path){return "/"+path.split("/").map(encodeURIComponent).join("/")}
+function render(list){
+  const grid=document.getElementById("fileGrid"), empty=document.getElementById("empty");
+  grid.innerHTML=""; document.getElementById("count").textContent=list.length+" öğe";
+  empty.style.display=list.length?"none":"block";
+  list.forEach(f=>{
+    const card=document.createElement("div"); card.className="card";
+    const label=f.is_directory?"Klasör":(f.type||"other").toUpperCase();
+    const meta=f.is_directory?label:[label,humanSize(f.size),f.updated_at||""].filter(Boolean).join(" • ");
+    const url=fileUrl(f.path);
+    card.innerHTML=`<div class="icon">${icon(f.type)}</div><h3>${escapeHtml(f.path)}</h3><p>${escapeHtml(meta)}</p>
+      <div class="actions"><a class="btn primary" href="${url}" target="_blank" rel="noopener">${f.is_directory?"Aç":"Görüntüle"}</a></div>`;
+    grid.appendChild(card);
+  });
+}
+function escapeHtml(s){return String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]))}
+function filterFiles(){
+  const q=document.getElementById("search").value.toLowerCase().trim(), t=document.getElementById("filter").value;
+  render(files.filter(f=>(!q||f.path.toLowerCase().includes(q))&&(t==="all"||f.type===t)));
+}
+async function loadFiles(){
+  const status=document.getElementById("status");
+  status.textContent="Dosya listesi yükleniyor…";
+  try{
+    const r=await fetch(DATA_URL+"?t="+Date.now(),{cache:"no-store"});
+    if(!r.ok) throw new Error("files.json bulunamadı");
+    const data=await r.json();
+    files=(data.files||[]).map(f=>({...f,type:typeOf(f.path,f.is_directory)}));
+    filterFiles();
+    status.textContent="Son güncelleme: "+(data.generated_at||"otomatik");
+  }catch(e){
+    files=[]; render([]);
+    status.textContent="Dosya listesi henüz oluşturulmamış. GitHub Actions kurulumu tamamlandığında otomatik gelecektir.";
+  }
+}
+function toggleTheme(){document.body.classList.toggle("dark");localStorage.setItem("imran-theme",document.body.classList.contains("dark")?"dark":"light")}
+if(localStorage.getItem("imran-theme")==="dark")document.body.classList.add("dark");
+loadFiles();
+</script>
+</body>
+</html>
