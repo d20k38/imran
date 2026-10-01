@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T11:15:20+03:00",
+  "generated_at": "2026-10-01T11:20:18+03:00",
   "timezone": "Europe/Istanbul",
   "site": "imrann.neocities.org",
   "files": [
@@ -62,8 +62,8 @@
       "is_directory": false,
       "size": 3513,
       "created_at": "Sun, 20 Sep 2026 15:26:57 -0000",
-      "updated_at": "Thu, 01 Oct 2026 08:05:14 -0000",
-      "sha1_hash": "4950f3bf64c0987518fc598e7ca4b9072311c4c6"
+      "updated_at": "Thu, 01 Oct 2026 08:15:22 -0000",
+      "sha1_hash": "ef0773fdd381c71da82f781a19fa1e7aea0c5ba7"
     },
     {
       "path": "index.html",
