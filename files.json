@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T22:31:25+03:00",
+  "generated_at": "2026-10-27T02:15:55+03:00",
   "timezone": "Europe/Istanbul",
   "site": "kaytim.neocities.org",
   "files": [
@@ -1826,6 +1826,14 @@
       "sha1_hash": "4bb60f128899ecfa646e347c120f3ceceedccab1"
     },
     {
+      "path": "eko9/calisma-kagidi.html",
+      "is_directory": false,
+      "size": 73524,
+      "created_at": "Mon, 26 Oct 2026 20:44:54 -0000",
+      "updated_at": "Mon, 26 Oct 2026 20:44:54 -0000",
+      "sha1_hash": "71b7332d369452afc18c1b23c598433f7dfe951a"
+    },
+    {
       "path": "eko9/ders-ozeti-kartlari.html",
       "is_directory": false,
       "size": 86724,
@@ -2036,6 +2044,54 @@
       "created_at": "Tue, 20 Oct 2026 04:12:17 -0000",
       "updated_at": "Tue, 20 Oct 2026 04:12:17 -0000",
       "sha1_hash": "b4d31eb0fd819ff95de6bbf6a3133f362322eeef"
+    },
+    {
+      "path": "eko9/hafta-1.html",
+      "is_directory": false,
+      "size": 8433,
+      "created_at": "Mon, 26 Oct 2026 20:44:54 -0000",
+      "updated_at": "Mon, 26 Oct 2026 20:44:54 -0000",
+      "sha1_hash": "7070542e23ba46621db2cfc85b0210b259356ec1"
+    },
+    {
+      "path": "eko9/hafta-2.html",
+      "is_directory": false,
+      "size": 8426,
+      "created_at": "Mon, 26 Oct 2026 20:44:55 -0000",
+      "updated_at": "Mon, 26 Oct 2026 20:44:55 -0000",
+      "sha1_hash": "d8efdcfdd450e53877ba7fc803403bfd8d7ec7ff"
+    },
+    {
+      "path": "eko9/hafta-3.html",
+      "is_directory": false,
+      "size": 8408,
+      "created_at": "Mon, 26 Oct 2026 20:44:55 -0000",
+      "updated_at": "Mon, 26 Oct 2026 20:44:55 -0000",
+      "sha1_hash": "2cb49abba031d8df9d85cc16fe66b259db4af3df"
+    },
+    {
+      "path": "eko9/hafta-4.html",
+      "is_directory": false,
+      "size": 8449,
+      "created_at": "Mon, 26 Oct 2026 20:44:55 -0000",
+      "updated_at": "Mon, 26 Oct 2026 20:44:55 -0000",
+      "sha1_hash": "424eaceb88bb9d76178d1636c323cb217c40ce64"
+    },
+    {
+      "path": "eko9/hafta-5.html",
+      "is_directory": false,
+      "size": 8388,
+      "created_at": "Mon, 26 Oct 2026 20:44:55 -0000",
+      "updated_at": "Mon, 26 Oct 2026 20:44:55 -0000",
+      "sha1_hash": "7962f16156b378b46883eb965a2878294c75cd20"
+    },
+    {
+      "path": "eko9/hafta-6.html",
+      "is_directory": false,
+      "size": 8386,
+      "created_at": "Mon, 26 Oct 2026 20:44:56 -0000",
+      "updated_at": "Mon, 26 Oct 2026 20:44:56 -0000",
+      "sha1_hash": "cade166b34365e93e263c86caa091f54fcffe59a"
     },
     {
       "path": "eko9/hazirlik.html",
@@ -5010,10 +5066,10 @@
     {
       "path": "files.json",
       "is_directory": false,
-      "size": 904239,
+      "size": 904806,
       "created_at": "Sun, 20 Sep 2026 19:54:26 -0000",
-      "updated_at": "Mon, 26 Oct 2026 13:37:43 -0000",
-      "sha1_hash": "a10b375776f75a37ca1ba339e213ecf4a013187e"
+      "updated_at": "Mon, 26 Oct 2026 19:31:27 -0000",
+      "sha1_hash": "d74e2e6021fea97dfa59d6065e68611a6fb2d7fd"
     },
     {
       "path": "fuar",
@@ -22196,6 +22252,14 @@
       "created_at": "Mon, 19 Oct 2026 21:10:53 -0000",
       "updated_at": "Mon, 19 Oct 2026 21:10:53 -0000",
       "sha1_hash": "60b0cafd38168ef81c6adef8efb1d9b7a5b50fd8"
+    },
+    {
+      "path": "verbey11/ilk-9-hafta-calisma-kagidi.html",
+      "is_directory": false,
+      "size": 26532,
+      "created_at": "Mon, 26 Oct 2026 20:10:34 -0000",
+      "updated_at": "Mon, 26 Oct 2026 20:10:34 -0000",
+      "sha1_hash": "3713f239b896c01a457af3767b01ff5027a4a907"
     },
     {
       "path": "verbey11/index.html",
