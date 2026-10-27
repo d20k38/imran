@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T05:06:00+03:00",
+  "generated_at": "2026-10-27T10:47:28+03:00",
   "timezone": "Europe/Istanbul",
   "site": "kaytim.neocities.org",
   "files": [
@@ -1828,10 +1828,10 @@
     {
       "path": "eko9/calisma-kagidi.html",
       "is_directory": false,
-      "size": 73524,
-      "created_at": "Mon, 26 Oct 2026 20:44:54 -0000",
-      "updated_at": "Mon, 26 Oct 2026 20:44:54 -0000",
-      "sha1_hash": "71b7332d369452afc18c1b23c598433f7dfe951a"
+      "size": 45897,
+      "created_at": "Tue, 27 Oct 2026 04:29:05 -0000",
+      "updated_at": "Tue, 27 Oct 2026 04:29:05 -0000",
+      "sha1_hash": "f1a6e13c2b9f61df2f9e88c73e20a65b7bed9061"
     },
     {
       "path": "eko9/ders-ozeti-kartlari.html",
@@ -1998,52 +1998,60 @@
       "updated_at": "Tue, 20 Oct 2026 04:12:16 -0000"
     },
     {
+      "path": "eko9/giris/calisma-kagidi.html",
+      "is_directory": false,
+      "size": 45897,
+      "created_at": "Tue, 27 Oct 2026 04:30:37 -0000",
+      "updated_at": "Tue, 27 Oct 2026 04:30:37 -0000",
+      "sha1_hash": "f1a6e13c2b9f61df2f9e88c73e20a65b7bed9061"
+    },
+    {
       "path": "eko9/giris/hafta-1.html",
       "is_directory": false,
-      "size": 8378,
+      "size": 8433,
       "created_at": "Tue, 20 Oct 2026 04:12:16 -0000",
-      "updated_at": "Tue, 20 Oct 2026 04:12:16 -0000",
-      "sha1_hash": "b25a12f159aa49ad034e9426b729f87aade28c78"
+      "updated_at": "Tue, 27 Oct 2026 04:30:37 -0000",
+      "sha1_hash": "7070542e23ba46621db2cfc85b0210b259356ec1"
     },
     {
       "path": "eko9/giris/hafta-2.html",
       "is_directory": false,
-      "size": 8371,
+      "size": 8426,
       "created_at": "Tue, 20 Oct 2026 04:12:17 -0000",
-      "updated_at": "Tue, 20 Oct 2026 04:12:17 -0000",
-      "sha1_hash": "2fd87af9be1201dc977c91bd5fcb0638f265aa33"
+      "updated_at": "Tue, 27 Oct 2026 04:30:38 -0000",
+      "sha1_hash": "d8efdcfdd450e53877ba7fc803403bfd8d7ec7ff"
     },
     {
       "path": "eko9/giris/hafta-3.html",
       "is_directory": false,
-      "size": 8353,
+      "size": 8408,
       "created_at": "Tue, 20 Oct 2026 04:12:17 -0000",
-      "updated_at": "Tue, 20 Oct 2026 04:12:17 -0000",
-      "sha1_hash": "c7a07597fd12c493b57d0842cc9e38dfac08fad8"
+      "updated_at": "Tue, 27 Oct 2026 04:30:38 -0000",
+      "sha1_hash": "2cb49abba031d8df9d85cc16fe66b259db4af3df"
     },
     {
       "path": "eko9/giris/hafta-4.html",
       "is_directory": false,
-      "size": 8394,
+      "size": 8449,
       "created_at": "Tue, 20 Oct 2026 04:12:17 -0000",
-      "updated_at": "Tue, 20 Oct 2026 04:12:17 -0000",
-      "sha1_hash": "ae5061373451ca0497b922152fb3a66184fcc6f3"
+      "updated_at": "Tue, 27 Oct 2026 04:30:38 -0000",
+      "sha1_hash": "424eaceb88bb9d76178d1636c323cb217c40ce64"
     },
     {
       "path": "eko9/giris/hafta-5.html",
       "is_directory": false,
-      "size": 8333,
+      "size": 8388,
       "created_at": "Tue, 20 Oct 2026 04:12:17 -0000",
-      "updated_at": "Tue, 20 Oct 2026 04:12:17 -0000",
-      "sha1_hash": "2573e10815d0297b220d74dc416c9cef271d8a64"
+      "updated_at": "Tue, 27 Oct 2026 04:30:38 -0000",
+      "sha1_hash": "7962f16156b378b46883eb965a2878294c75cd20"
     },
     {
       "path": "eko9/giris/hafta-6.html",
       "is_directory": false,
-      "size": 8331,
+      "size": 8386,
       "created_at": "Tue, 20 Oct 2026 04:12:17 -0000",
-      "updated_at": "Tue, 20 Oct 2026 04:12:17 -0000",
-      "sha1_hash": "b4d31eb0fd819ff95de6bbf6a3133f362322eeef"
+      "updated_at": "Tue, 27 Oct 2026 04:30:39 -0000",
+      "sha1_hash": "cade166b34365e93e263c86caa091f54fcffe59a"
     },
     {
       "path": "eko9/hafta-1.html",
@@ -5068,8 +5076,8 @@
       "is_directory": false,
       "size": 906990,
       "created_at": "Sun, 20 Sep 2026 19:54:26 -0000",
-      "updated_at": "Mon, 26 Oct 2026 23:15:57 -0000",
-      "sha1_hash": "478ac085d9a693291b8afb7c4470152498a5ec67"
+      "updated_at": "Tue, 27 Oct 2026 02:06:02 -0000",
+      "sha1_hash": "da121fae5105cacbd8445c7775945e4950283c4c"
     },
     {
       "path": "fuar",
