@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T23:20:11+03:00",
+  "generated_at": "2026-11-03T05:25:43+03:00",
   "timezone": "Europe/Istanbul",
   "site": "kaytim.neocities.org",
   "files": [
@@ -20,10 +20,10 @@
     {
       "path": "3form/index.html",
       "is_directory": false,
-      "size": 12874,
-      "created_at": "Sun, 01 Nov 2026 21:15:59 -0000",
-      "updated_at": "Sun, 01 Nov 2026 21:15:59 -0000",
-      "sha1_hash": "cc3d29e950c146145760b8a335536f0cfedca7a9"
+      "size": 11595,
+      "created_at": "Mon, 02 Nov 2026 20:40:32 -0000",
+      "updated_at": "Mon, 02 Nov 2026 20:40:32 -0000",
+      "sha1_hash": "28841cd56ec32b2022d46a76c1a48a5eb99c4626"
     },
     {
       "path": "Ekonomi_9_MEB_Ders_Materyali.pdf",
@@ -5090,8 +5090,8 @@
       "is_directory": false,
       "size": 907715,
       "created_at": "Sun, 20 Sep 2026 19:54:26 -0000",
-      "updated_at": "Mon, 02 Nov 2026 09:59:35 -0000",
-      "sha1_hash": "7454dd0ecdbeff4cb312db35d80c035b587af93d"
+      "updated_at": "Mon, 02 Nov 2026 20:20:13 -0000",
+      "sha1_hash": "2c4f4f373633545a52909301ad00824ca9427436"
     },
     {
       "path": "fuar",
