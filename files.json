@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T04:39:15+03:00",
+  "generated_at": "2026-11-23T12:44:04+03:00",
   "timezone": "Europe/Istanbul",
   "site": "kaytim.neocities.org",
   "files": [
@@ -5114,8 +5114,8 @@
       "is_directory": false,
       "size": 908565,
       "created_at": "Sun, 20 Sep 2026 19:54:26 -0000",
-      "updated_at": "Sun, 22 Nov 2026 21:11:05 -0000",
-      "sha1_hash": "d149e5cdf595c81ea63ddae1d91a28eddd0635b8"
+      "updated_at": "Mon, 23 Nov 2026 01:39:17 -0000",
+      "sha1_hash": "4d208c2135c98864def364678e00262838414279"
     },
     {
       "path": "fuar",
@@ -5356,6 +5356,2878 @@
       "created_at": "Wed, 09 Sep 2026 13:36:16 -0000",
       "updated_at": "Wed, 09 Sep 2026 13:36:16 -0000",
       "sha1_hash": "19ab99ca1a9d99f45501b8cbef148ccbbcb418dd"
+    },
+    {
+      "path": "mg9",
+      "is_directory": true,
+      "created_at": "Mon, 23 Nov 2026 09:16:52 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:16:52 -0000"
+    },
+    {
+      "path": "mg9/cevre-koruma",
+      "is_directory": true,
+      "created_at": "Mon, 23 Nov 2026 09:18:39 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:39 -0000"
+    },
+    {
+      "path": "mg9/cevre-koruma/hafta-14.html",
+      "is_directory": false,
+      "size": 17353,
+      "created_at": "Mon, 23 Nov 2026 09:18:39 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:39 -0000",
+      "sha1_hash": "db16ac2744b098b6d7b495acea38ee61a0f1437c"
+    },
+    {
+      "path": "mg9/cevre-koruma/hafta-15.html",
+      "is_directory": false,
+      "size": 14098,
+      "created_at": "Mon, 23 Nov 2026 09:18:40 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:40 -0000",
+      "sha1_hash": "ed73d895bf2324d4a5f542bde31dafc6f323282d"
+    },
+    {
+      "path": "mg9/cevre-koruma/hafta-16.html",
+      "is_directory": false,
+      "size": 28261,
+      "created_at": "Mon, 23 Nov 2026 09:18:40 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:40 -0000",
+      "sha1_hash": "7c82440bbfea839103a016772817d82427472947"
+    },
+    {
+      "path": "mg9/donusum",
+      "is_directory": true,
+      "created_at": "Mon, 23 Nov 2026 09:18:40 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:40 -0000"
+    },
+    {
+      "path": "mg9/donusum/hafta-31.html",
+      "is_directory": false,
+      "size": 30834,
+      "created_at": "Mon, 23 Nov 2026 09:18:40 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:40 -0000",
+      "sha1_hash": "059c46ca6071788d7fd62f14d497cbfd5c725369"
+    },
+    {
+      "path": "mg9/finansal",
+      "is_directory": true,
+      "created_at": "Mon, 23 Nov 2026 09:18:40 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:40 -0000"
+    },
+    {
+      "path": "mg9/finansal/hafta-34.html",
+      "is_directory": false,
+      "size": 30354,
+      "created_at": "Mon, 23 Nov 2026 09:18:40 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:40 -0000",
+      "sha1_hash": "9b3518bbf8ba9a860bcdd05a9975eac7e60b1782"
+    },
+    {
+      "path": "mg9/fsmh",
+      "is_directory": true,
+      "created_at": "Mon, 23 Nov 2026 09:18:41 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:41 -0000"
+    },
+    {
+      "path": "mg9/fsmh/hafta-21.html",
+      "is_directory": false,
+      "size": 17949,
+      "created_at": "Mon, 23 Nov 2026 09:18:41 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:41 -0000",
+      "sha1_hash": "0bbd1d2b71fe228216367001c3cd89a10eaaeb13"
+    },
+    {
+      "path": "mg9/fsmh/hafta-23.html",
+      "is_directory": false,
+      "size": 16779,
+      "created_at": "Mon, 23 Nov 2026 09:18:41 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:41 -0000",
+      "sha1_hash": "ba5589389cef279acf629f4fc86b6a51ec752fcb"
+    },
+    {
+      "path": "mg9/girisimcilik",
+      "is_directory": true,
+      "created_at": "Mon, 23 Nov 2026 09:18:41 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:41 -0000"
+    },
+    {
+      "path": "mg9/girisimcilik/hafta-17.html",
+      "is_directory": false,
+      "size": 19540,
+      "created_at": "Mon, 23 Nov 2026 09:18:41 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:41 -0000",
+      "sha1_hash": "4ab60299d741b79f0a65af43d9be8a3ac7ccff2a"
+    },
+    {
+      "path": "mg9/girisimcilik/hafta-19.html",
+      "is_directory": false,
+      "size": 22905,
+      "created_at": "Mon, 23 Nov 2026 09:18:41 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:41 -0000",
+      "sha1_hash": "6b7b0551b71b062abfff55102354e66d16364e39"
+    },
+    {
+      "path": "mg9/hazirlik.html",
+      "is_directory": false,
+      "size": 22614,
+      "created_at": "Mon, 23 Nov 2026 09:18:38 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:38 -0000",
+      "sha1_hash": "263cbc83ecbcbb631bb09969ca8b7af1e2b5bb22"
+    },
+    {
+      "path": "mg9/iletimin-gucu",
+      "is_directory": true,
+      "created_at": "Mon, 23 Nov 2026 09:18:42 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:42 -0000"
+    },
+    {
+      "path": "mg9/iletimin-gucu/hafta-1.html",
+      "is_directory": false,
+      "size": 32691,
+      "created_at": "Mon, 23 Nov 2026 09:18:42 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:42 -0000",
+      "sha1_hash": "baa8f7ac56bb7f5fb5dd127aa3a53554153b0361"
+    },
+    {
+      "path": "mg9/iletimin-gucu/hafta-2.html",
+      "is_directory": false,
+      "size": 21879,
+      "created_at": "Mon, 23 Nov 2026 09:18:42 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:42 -0000",
+      "sha1_hash": "49ed08906d8352f64b71502dcb6dcd252b4e7359"
+    },
+    {
+      "path": "mg9/iletimin-gucu/hafta-3.html",
+      "is_directory": false,
+      "size": 18040,
+      "created_at": "Mon, 23 Nov 2026 09:18:42 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:42 -0000",
+      "sha1_hash": "b5b382c42693c32ffdd60d6fa391be512a05ef70"
+    },
+    {
+      "path": "mg9/iletimin-gucu/hafta-4.html",
+      "is_directory": false,
+      "size": 17530,
+      "created_at": "Mon, 23 Nov 2026 09:18:43 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:43 -0000",
+      "sha1_hash": "6e8cf3d736075e0f3e165f8f864525afee6c245d"
+    },
+    {
+      "path": "mg9/iletimin-gucu/hafta-5.html",
+      "is_directory": false,
+      "size": 15818,
+      "created_at": "Mon, 23 Nov 2026 09:18:43 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:43 -0000",
+      "sha1_hash": "b1429a374ec69618d3d211bedfc02200f4b68bce"
+    },
+    {
+      "path": "mg9/index.html",
+      "is_directory": false,
+      "size": 17962,
+      "created_at": "Mon, 23 Nov 2026 09:18:38 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:38 -0000",
+      "sha1_hash": "50bd081609e9155ff5aaf56c1e371fe03bb845cd"
+    },
+    {
+      "path": "mg9/inovasyon",
+      "is_directory": true,
+      "created_at": "Mon, 23 Nov 2026 09:18:43 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:43 -0000"
+    },
+    {
+      "path": "mg9/inovasyon/hafta-28.html",
+      "is_directory": false,
+      "size": 23353,
+      "created_at": "Mon, 23 Nov 2026 09:18:43 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:43 -0000",
+      "sha1_hash": "c456bd1ee9a590171b0002876076c8c4cf86f651"
+    },
+    {
+      "path": "mg9/isg",
+      "is_directory": true,
+      "created_at": "Mon, 23 Nov 2026 09:18:43 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:43 -0000"
+    },
+    {
+      "path": "mg9/isg/hafta-10.html",
+      "is_directory": false,
+      "size": 20376,
+      "created_at": "Mon, 23 Nov 2026 09:18:43 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:43 -0000",
+      "sha1_hash": "b8587b65f40ce76c871c59526e593e73798fedf8"
+    },
+    {
+      "path": "mg9/isg/hafta-11.html",
+      "is_directory": false,
+      "size": 16707,
+      "created_at": "Mon, 23 Nov 2026 09:18:44 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:44 -0000",
+      "sha1_hash": "b5a25a8dc695a9f976f168696a2325a5092a88b6"
+    },
+    {
+      "path": "mg9/isg/hafta-12.html",
+      "is_directory": false,
+      "size": 28718,
+      "created_at": "Mon, 23 Nov 2026 09:18:44 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:44 -0000",
+      "sha1_hash": "a36d988ae2582cc101adc4566ae1036c16e70a09"
+    },
+    {
+      "path": "mg9/isg/hafta-13.html",
+      "is_directory": false,
+      "size": 13552,
+      "created_at": "Mon, 23 Nov 2026 09:18:44 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:44 -0000",
+      "sha1_hash": "02efb947c07ad9936d5e4fbde181002cabc083e6"
+    },
+    {
+      "path": "mg9/isg/hafta-9.html",
+      "is_directory": false,
+      "size": 11433,
+      "created_at": "Mon, 23 Nov 2026 09:18:44 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:44 -0000",
+      "sha1_hash": "16f8f1308d0629e9024cf99202884b388c0573cc"
+    },
+    {
+      "path": "mg9/kavram-testi.html",
+      "is_directory": false,
+      "size": 17584,
+      "created_at": "Mon, 23 Nov 2026 09:18:38 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:38 -0000",
+      "sha1_hash": "2ff619fe1b1b4a299481390f941a3d10ff9e4897"
+    },
+    {
+      "path": "mg9/kitap",
+      "is_directory": true,
+      "created_at": "Mon, 23 Nov 2026 09:18:45 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:45 -0000"
+    },
+    {
+      "path": "mg9/kitap/002.jpg",
+      "is_directory": false,
+      "size": 74046,
+      "created_at": "Mon, 23 Nov 2026 09:18:45 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:45 -0000",
+      "sha1_hash": "ea967edce56fd253446658efe7ebf6cccb3039cd"
+    },
+    {
+      "path": "mg9/kitap/003.jpg",
+      "is_directory": false,
+      "size": 127521,
+      "created_at": "Mon, 23 Nov 2026 09:18:45 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:45 -0000",
+      "sha1_hash": "d9b5f313b5ee4a21904657e8dfe478034e9b4c08"
+    },
+    {
+      "path": "mg9/kitap/004.jpg",
+      "is_directory": false,
+      "size": 114214,
+      "created_at": "Mon, 23 Nov 2026 09:18:46 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:46 -0000",
+      "sha1_hash": "ac947c60d2289e0502599c88e8bda170f9612e83"
+    },
+    {
+      "path": "mg9/kitap/005.jpg",
+      "is_directory": false,
+      "size": 134310,
+      "created_at": "Mon, 23 Nov 2026 09:18:46 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:46 -0000",
+      "sha1_hash": "b23b0435df6298243846b5394e4bc2146fe28dba"
+    },
+    {
+      "path": "mg9/kitap/006.jpg",
+      "is_directory": false,
+      "size": 13647,
+      "created_at": "Mon, 23 Nov 2026 09:18:46 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:46 -0000",
+      "sha1_hash": "1a6ecb453a7e1064e39d48de66d98f4bfd6bb676"
+    },
+    {
+      "path": "mg9/kitap/007.jpg",
+      "is_directory": false,
+      "size": 182608,
+      "created_at": "Mon, 23 Nov 2026 09:18:47 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:47 -0000",
+      "sha1_hash": "38ba6480b7e8504f15eaa5112c3e9b812ad02fdd"
+    },
+    {
+      "path": "mg9/kitap/008.jpg",
+      "is_directory": false,
+      "size": 177726,
+      "created_at": "Mon, 23 Nov 2026 09:18:48 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:48 -0000",
+      "sha1_hash": "5c4264e8c18d064fc9985f3ab83b6260c12c060f"
+    },
+    {
+      "path": "mg9/kitap/009.jpg",
+      "is_directory": false,
+      "size": 170166,
+      "created_at": "Mon, 23 Nov 2026 09:18:48 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:48 -0000",
+      "sha1_hash": "d35bc0a0edbc0913bae4775602ba1b94150e3508"
+    },
+    {
+      "path": "mg9/kitap/010.jpg",
+      "is_directory": false,
+      "size": 143729,
+      "created_at": "Mon, 23 Nov 2026 09:18:49 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:49 -0000",
+      "sha1_hash": "026ebd5538d05dcdc1dabe70e805d7b798f7c1a5"
+    },
+    {
+      "path": "mg9/kitap/011.jpg",
+      "is_directory": false,
+      "size": 99195,
+      "created_at": "Mon, 23 Nov 2026 09:18:49 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:49 -0000",
+      "sha1_hash": "37526f24f67b8a6c74f82c83dd301d393c7b3515"
+    },
+    {
+      "path": "mg9/kitap/012.jpg",
+      "is_directory": false,
+      "size": 136491,
+      "created_at": "Mon, 23 Nov 2026 09:18:49 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:49 -0000",
+      "sha1_hash": "c302fdf369eed7c161d3b2301241ac89d02ded1c"
+    },
+    {
+      "path": "mg9/kitap/013.jpg",
+      "is_directory": false,
+      "size": 117084,
+      "created_at": "Mon, 23 Nov 2026 09:18:50 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:50 -0000",
+      "sha1_hash": "7d24097c98063743cd437225b38689c3a4755efc"
+    },
+    {
+      "path": "mg9/kitap/014.jpg",
+      "is_directory": false,
+      "size": 122721,
+      "created_at": "Mon, 23 Nov 2026 09:18:50 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:50 -0000",
+      "sha1_hash": "0a572f7f4466af8a37ccc0cb96f29a91e6880f88"
+    },
+    {
+      "path": "mg9/kitap/015.jpg",
+      "is_directory": false,
+      "size": 148191,
+      "created_at": "Mon, 23 Nov 2026 09:18:50 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:50 -0000",
+      "sha1_hash": "7140ac8767d959e0a265e0a92b1040d905a4941a"
+    },
+    {
+      "path": "mg9/kitap/016.jpg",
+      "is_directory": false,
+      "size": 166122,
+      "created_at": "Mon, 23 Nov 2026 09:18:51 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:51 -0000",
+      "sha1_hash": "b2769361eb512142f0013db04dc29ba75f3acbff"
+    },
+    {
+      "path": "mg9/kitap/017.jpg",
+      "is_directory": false,
+      "size": 195525,
+      "created_at": "Mon, 23 Nov 2026 09:18:51 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:51 -0000",
+      "sha1_hash": "416d05f42b036ae5cfe785696c6324a5cb956f14"
+    },
+    {
+      "path": "mg9/kitap/018.jpg",
+      "is_directory": false,
+      "size": 153532,
+      "created_at": "Mon, 23 Nov 2026 09:18:52 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:52 -0000",
+      "sha1_hash": "e764110c58c46bd33abc37c4ae74e051b935bd64"
+    },
+    {
+      "path": "mg9/kitap/019.jpg",
+      "is_directory": false,
+      "size": 154216,
+      "created_at": "Mon, 23 Nov 2026 09:18:52 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:52 -0000",
+      "sha1_hash": "89398c4bfb410e26684b76f18ad2bfaf220d9137"
+    },
+    {
+      "path": "mg9/kitap/020.jpg",
+      "is_directory": false,
+      "size": 177642,
+      "created_at": "Mon, 23 Nov 2026 09:18:53 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:53 -0000",
+      "sha1_hash": "02a3bf4147f1b0cb8bbf234752927a2b7f236246"
+    },
+    {
+      "path": "mg9/kitap/021.jpg",
+      "is_directory": false,
+      "size": 140459,
+      "created_at": "Mon, 23 Nov 2026 09:18:53 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:53 -0000",
+      "sha1_hash": "552a7d98ebfa178fb3c3f519214b75b07d3329cb"
+    },
+    {
+      "path": "mg9/kitap/022.jpg",
+      "is_directory": false,
+      "size": 187398,
+      "created_at": "Mon, 23 Nov 2026 09:18:54 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:54 -0000",
+      "sha1_hash": "abbf68d5f2464d3ad01bee4f060aa092e11d072e"
+    },
+    {
+      "path": "mg9/kitap/023.jpg",
+      "is_directory": false,
+      "size": 190592,
+      "created_at": "Mon, 23 Nov 2026 09:18:54 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:54 -0000",
+      "sha1_hash": "f3572d3faa3815fc653b21d110f10a9df4f50455"
+    },
+    {
+      "path": "mg9/kitap/024.jpg",
+      "is_directory": false,
+      "size": 190223,
+      "created_at": "Mon, 23 Nov 2026 09:18:55 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:55 -0000",
+      "sha1_hash": "f120180b8224aae2106ff644061f4067ab640d68"
+    },
+    {
+      "path": "mg9/kitap/025.jpg",
+      "is_directory": false,
+      "size": 149914,
+      "created_at": "Mon, 23 Nov 2026 09:18:55 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:55 -0000",
+      "sha1_hash": "20d46921a3234559b05b5ebfde98a59a1c2da001"
+    },
+    {
+      "path": "mg9/kitap/026.jpg",
+      "is_directory": false,
+      "size": 117316,
+      "created_at": "Mon, 23 Nov 2026 09:18:55 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:55 -0000",
+      "sha1_hash": "bde976ebce4ee8a10672c8f7a95b3318843a9376"
+    },
+    {
+      "path": "mg9/kitap/027.jpg",
+      "is_directory": false,
+      "size": 135989,
+      "created_at": "Mon, 23 Nov 2026 09:18:56 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:56 -0000",
+      "sha1_hash": "e6e283398d8809d41161e011888e8e7fbcfe1de6"
+    },
+    {
+      "path": "mg9/kitap/028.jpg",
+      "is_directory": false,
+      "size": 179094,
+      "created_at": "Mon, 23 Nov 2026 09:18:56 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:56 -0000",
+      "sha1_hash": "11ca06a7834042cbdc5c1f54053fb166dcbad5d2"
+    },
+    {
+      "path": "mg9/kitap/029.jpg",
+      "is_directory": false,
+      "size": 187129,
+      "created_at": "Mon, 23 Nov 2026 09:18:57 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:57 -0000",
+      "sha1_hash": "17bfa187e4a7cf3e8a8a47b4edcf1bffe8ccd434"
+    },
+    {
+      "path": "mg9/kitap/030.jpg",
+      "is_directory": false,
+      "size": 166771,
+      "created_at": "Mon, 23 Nov 2026 09:18:57 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:57 -0000",
+      "sha1_hash": "5fae9f1b72baa4107427d8ccdb861cb486f7e141"
+    },
+    {
+      "path": "mg9/kitap/031.jpg",
+      "is_directory": false,
+      "size": 162259,
+      "created_at": "Mon, 23 Nov 2026 09:18:57 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:57 -0000",
+      "sha1_hash": "db4ae122c3ea605af5ecbf67382ce720239058e0"
+    },
+    {
+      "path": "mg9/kitap/032.jpg",
+      "is_directory": false,
+      "size": 149784,
+      "created_at": "Mon, 23 Nov 2026 09:18:58 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:58 -0000",
+      "sha1_hash": "e64ba089b625560dea5ffefdea216ed5c399fe24"
+    },
+    {
+      "path": "mg9/kitap/033.jpg",
+      "is_directory": false,
+      "size": 128918,
+      "created_at": "Mon, 23 Nov 2026 09:18:58 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:58 -0000",
+      "sha1_hash": "c6000138eac071fd23ebd3e922ef054e2f8e8894"
+    },
+    {
+      "path": "mg9/kitap/034.jpg",
+      "is_directory": false,
+      "size": 109756,
+      "created_at": "Mon, 23 Nov 2026 09:18:58 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:58 -0000",
+      "sha1_hash": "76b06b099e590e37a55738e29766b8032bc1eef1"
+    },
+    {
+      "path": "mg9/kitap/035.jpg",
+      "is_directory": false,
+      "size": 168846,
+      "created_at": "Mon, 23 Nov 2026 09:18:59 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:59 -0000",
+      "sha1_hash": "280a1c87c582a714674277bad1921c20ba7704e8"
+    },
+    {
+      "path": "mg9/kitap/036.jpg",
+      "is_directory": false,
+      "size": 188226,
+      "created_at": "Mon, 23 Nov 2026 09:18:59 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:59 -0000",
+      "sha1_hash": "d7261ddc6ba6422dab0cf1d0f4808b6dbe47f75b"
+    },
+    {
+      "path": "mg9/kitap/037.jpg",
+      "is_directory": false,
+      "size": 183705,
+      "created_at": "Mon, 23 Nov 2026 09:19:00 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:00 -0000",
+      "sha1_hash": "1ea36357178ce137550f7a53030a3d163187c565"
+    },
+    {
+      "path": "mg9/kitap/038.jpg",
+      "is_directory": false,
+      "size": 143490,
+      "created_at": "Mon, 23 Nov 2026 09:19:00 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:00 -0000",
+      "sha1_hash": "bf8a8c4d6877ff7d31e2d46306b277bbdbb483d1"
+    },
+    {
+      "path": "mg9/kitap/039.jpg",
+      "is_directory": false,
+      "size": 129412,
+      "created_at": "Mon, 23 Nov 2026 09:19:00 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:00 -0000",
+      "sha1_hash": "5f315c5d1ea0afd08b929e87ce7e3fadd5a5aa88"
+    },
+    {
+      "path": "mg9/kitap/040.jpg",
+      "is_directory": false,
+      "size": 117639,
+      "created_at": "Mon, 23 Nov 2026 09:19:01 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:01 -0000",
+      "sha1_hash": "3cbb0c2aa9b84b9f293d35d5fe7f5f5fcb11f07b"
+    },
+    {
+      "path": "mg9/kitap/041.jpg",
+      "is_directory": false,
+      "size": 148804,
+      "created_at": "Mon, 23 Nov 2026 09:19:01 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:01 -0000",
+      "sha1_hash": "ed0887d333e09c8586dac6f0891125f18ec2ea41"
+    },
+    {
+      "path": "mg9/kitap/042.jpg",
+      "is_directory": false,
+      "size": 129155,
+      "created_at": "Mon, 23 Nov 2026 09:19:01 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:01 -0000",
+      "sha1_hash": "ae9489bdf3bbfc4529a8bdac28252bf13ff4075b"
+    },
+    {
+      "path": "mg9/kitap/043.jpg",
+      "is_directory": false,
+      "size": 166447,
+      "created_at": "Mon, 23 Nov 2026 09:19:02 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:02 -0000",
+      "sha1_hash": "12c7f40e68ff8455a72e0222bfe18fed34254192"
+    },
+    {
+      "path": "mg9/kitap/044.jpg",
+      "is_directory": false,
+      "size": 196220,
+      "created_at": "Mon, 23 Nov 2026 09:19:02 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:02 -0000",
+      "sha1_hash": "155cb01cffe50c7f97fc8a49a97782012073a75b"
+    },
+    {
+      "path": "mg9/kitap/045.jpg",
+      "is_directory": false,
+      "size": 152637,
+      "created_at": "Mon, 23 Nov 2026 09:19:03 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:03 -0000",
+      "sha1_hash": "c434b22d474fc2e30d5907bc117013b5871c3219"
+    },
+    {
+      "path": "mg9/kitap/046.jpg",
+      "is_directory": false,
+      "size": 157370,
+      "created_at": "Mon, 23 Nov 2026 09:19:03 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:03 -0000",
+      "sha1_hash": "dc3aabbf048352f37a78985343a4a81be95a5f56"
+    },
+    {
+      "path": "mg9/kitap/047.jpg",
+      "is_directory": false,
+      "size": 124365,
+      "created_at": "Mon, 23 Nov 2026 09:19:03 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:03 -0000",
+      "sha1_hash": "4953b66be45ed8d955d00b4211fb59c56b8ee80c"
+    },
+    {
+      "path": "mg9/kitap/048.jpg",
+      "is_directory": false,
+      "size": 135477,
+      "created_at": "Mon, 23 Nov 2026 09:19:04 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:04 -0000",
+      "sha1_hash": "86cef76f11d6859da928f461a8d7a5e30d5702c1"
+    },
+    {
+      "path": "mg9/kitap/049.jpg",
+      "is_directory": false,
+      "size": 183168,
+      "created_at": "Mon, 23 Nov 2026 09:19:04 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:04 -0000",
+      "sha1_hash": "04c0269d4b00d410bece2a4adfd38f53ffee6688"
+    },
+    {
+      "path": "mg9/kitap/050.jpg",
+      "is_directory": false,
+      "size": 158559,
+      "created_at": "Mon, 23 Nov 2026 09:19:04 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:04 -0000",
+      "sha1_hash": "fce8469616794065ba89ec30b143b0dfb121769a"
+    },
+    {
+      "path": "mg9/kitap/051.jpg",
+      "is_directory": false,
+      "size": 187613,
+      "created_at": "Mon, 23 Nov 2026 09:19:05 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:05 -0000",
+      "sha1_hash": "cea34cf252fc6812be2f5bf26accce98e46e8475"
+    },
+    {
+      "path": "mg9/kitap/052.jpg",
+      "is_directory": false,
+      "size": 166896,
+      "created_at": "Mon, 23 Nov 2026 09:19:05 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:05 -0000",
+      "sha1_hash": "2bdd06519bec5982b397fa59cf7f9d99e5aedb05"
+    },
+    {
+      "path": "mg9/kitap/053.jpg",
+      "is_directory": false,
+      "size": 147703,
+      "created_at": "Mon, 23 Nov 2026 09:19:06 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:06 -0000",
+      "sha1_hash": "b692117b9609c6dd2bc70d1fd5aff82ee38d5015"
+    },
+    {
+      "path": "mg9/kitap/054.jpg",
+      "is_directory": false,
+      "size": 168671,
+      "created_at": "Mon, 23 Nov 2026 09:19:06 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:06 -0000",
+      "sha1_hash": "4e853208cf74f137f8a1a3748f4f6c4537c44b38"
+    },
+    {
+      "path": "mg9/kitap/055.jpg",
+      "is_directory": false,
+      "size": 152337,
+      "created_at": "Mon, 23 Nov 2026 09:19:07 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:07 -0000",
+      "sha1_hash": "269c61f701024d11154633f8b6fa89cd12e8ce23"
+    },
+    {
+      "path": "mg9/kitap/056.jpg",
+      "is_directory": false,
+      "size": 126788,
+      "created_at": "Mon, 23 Nov 2026 09:19:07 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:07 -0000",
+      "sha1_hash": "4e757e5cdcff9a84026d6e9fc47ffc0ecb9cd493"
+    },
+    {
+      "path": "mg9/kitap/057.jpg",
+      "is_directory": false,
+      "size": 181828,
+      "created_at": "Mon, 23 Nov 2026 09:19:07 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:07 -0000",
+      "sha1_hash": "89e1665aa0e2b1adc4eefc5d2c45a7a8c76d4a05"
+    },
+    {
+      "path": "mg9/kitap/058.jpg",
+      "is_directory": false,
+      "size": 124799,
+      "created_at": "Mon, 23 Nov 2026 09:19:08 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:08 -0000",
+      "sha1_hash": "48527d2cf5695018add16e58c897996c791e7559"
+    },
+    {
+      "path": "mg9/kitap/059.jpg",
+      "is_directory": false,
+      "size": 162232,
+      "created_at": "Mon, 23 Nov 2026 09:19:08 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:08 -0000",
+      "sha1_hash": "52f3ed096d5b726453b12c68101e3c7d90c54a85"
+    },
+    {
+      "path": "mg9/kitap/060.jpg",
+      "is_directory": false,
+      "size": 199114,
+      "created_at": "Mon, 23 Nov 2026 09:19:09 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:09 -0000",
+      "sha1_hash": "36d3c4ba7f9eda7653b4a3c42726b6251fef2670"
+    },
+    {
+      "path": "mg9/kitap/061.jpg",
+      "is_directory": false,
+      "size": 185627,
+      "created_at": "Mon, 23 Nov 2026 09:19:09 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:09 -0000",
+      "sha1_hash": "9d4ae6fbe9e43af7c0910355016848c29aebc96b"
+    },
+    {
+      "path": "mg9/kitap/062.jpg",
+      "is_directory": false,
+      "size": 178563,
+      "created_at": "Mon, 23 Nov 2026 09:19:09 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:09 -0000",
+      "sha1_hash": "d8a3d96ca4aae821317c2f8a06e3bb5dc517676a"
+    },
+    {
+      "path": "mg9/kitap/063.jpg",
+      "is_directory": false,
+      "size": 158855,
+      "created_at": "Mon, 23 Nov 2026 09:19:10 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:10 -0000",
+      "sha1_hash": "7caa152b84ccc6be6a7d7de0a423e9576167aae9"
+    },
+    {
+      "path": "mg9/kitap/064.jpg",
+      "is_directory": false,
+      "size": 137310,
+      "created_at": "Mon, 23 Nov 2026 09:19:10 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:10 -0000",
+      "sha1_hash": "4268cb5c2d29096d90092462f1c024a4ac0f99fa"
+    },
+    {
+      "path": "mg9/kitap/065.jpg",
+      "is_directory": false,
+      "size": 160738,
+      "created_at": "Mon, 23 Nov 2026 09:19:11 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:11 -0000",
+      "sha1_hash": "a985d5164737696cb04a927f2df0759c21f3448c"
+    },
+    {
+      "path": "mg9/kitap/066.jpg",
+      "is_directory": false,
+      "size": 183952,
+      "created_at": "Mon, 23 Nov 2026 09:19:11 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:11 -0000",
+      "sha1_hash": "2b52bd680214454b91b77ecc82d98a7103399840"
+    },
+    {
+      "path": "mg9/kitap/067.jpg",
+      "is_directory": false,
+      "size": 197961,
+      "created_at": "Mon, 23 Nov 2026 09:19:11 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:11 -0000",
+      "sha1_hash": "292f69586078ec120af20f28f7131c9e8b250315"
+    },
+    {
+      "path": "mg9/kitap/068.jpg",
+      "is_directory": false,
+      "size": 193407,
+      "created_at": "Mon, 23 Nov 2026 09:19:12 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:12 -0000",
+      "sha1_hash": "d47cb8f018c6a141ceb1e766590be919934353cd"
+    },
+    {
+      "path": "mg9/kitap/069.jpg",
+      "is_directory": false,
+      "size": 158661,
+      "created_at": "Mon, 23 Nov 2026 09:19:13 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:13 -0000",
+      "sha1_hash": "8d993289e74bcee19967fc32b8c67fa0ce24b8f1"
+    },
+    {
+      "path": "mg9/kitap/070.jpg",
+      "is_directory": false,
+      "size": 153153,
+      "created_at": "Mon, 23 Nov 2026 09:19:13 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:13 -0000",
+      "sha1_hash": "1a8334a19813031c4bce65c35eb7e666618beb52"
+    },
+    {
+      "path": "mg9/kitap/071.jpg",
+      "is_directory": false,
+      "size": 162348,
+      "created_at": "Mon, 23 Nov 2026 09:19:14 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:14 -0000",
+      "sha1_hash": "003c5834c433bf7a2422013720502705b49a6473"
+    },
+    {
+      "path": "mg9/kitap/072.jpg",
+      "is_directory": false,
+      "size": 193045,
+      "created_at": "Mon, 23 Nov 2026 09:19:14 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:14 -0000",
+      "sha1_hash": "e8316d28aed79a760648c4932c2d7df126af8764"
+    },
+    {
+      "path": "mg9/kitap/073.jpg",
+      "is_directory": false,
+      "size": 203222,
+      "created_at": "Mon, 23 Nov 2026 09:19:14 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:14 -0000",
+      "sha1_hash": "3293fc925461381ec695096e5658adb6fcf8cbeb"
+    },
+    {
+      "path": "mg9/kitap/074.jpg",
+      "is_directory": false,
+      "size": 113261,
+      "created_at": "Mon, 23 Nov 2026 09:19:15 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:15 -0000",
+      "sha1_hash": "d0910a0d7050028005c92fe1729bdd65ccf3ffff"
+    },
+    {
+      "path": "mg9/kitap/075.jpg",
+      "is_directory": false,
+      "size": 150193,
+      "created_at": "Mon, 23 Nov 2026 09:19:15 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:15 -0000",
+      "sha1_hash": "8852d7fed66d97d4479d6842b75f5e9115d14d00"
+    },
+    {
+      "path": "mg9/kitap/076.jpg",
+      "is_directory": false,
+      "size": 145994,
+      "created_at": "Mon, 23 Nov 2026 09:19:16 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:16 -0000",
+      "sha1_hash": "8e2161ff8903be94a40a34081dd43a59885755cf"
+    },
+    {
+      "path": "mg9/kitap/077.jpg",
+      "is_directory": false,
+      "size": 115411,
+      "created_at": "Mon, 23 Nov 2026 09:19:16 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:16 -0000",
+      "sha1_hash": "a6d29e6727713cd4be5308b3cc00596dd17eded3"
+    },
+    {
+      "path": "mg9/kitap/078.jpg",
+      "is_directory": false,
+      "size": 177686,
+      "created_at": "Mon, 23 Nov 2026 09:19:16 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:16 -0000",
+      "sha1_hash": "875aeed5757cd06cfae334fcde28bb22d5207ed2"
+    },
+    {
+      "path": "mg9/kitap/079.jpg",
+      "is_directory": false,
+      "size": 178718,
+      "created_at": "Mon, 23 Nov 2026 09:19:17 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:17 -0000",
+      "sha1_hash": "b4cc3e0196e9a0cfdcb89195e7c4e00a0d7f3d3b"
+    },
+    {
+      "path": "mg9/kitap/080.jpg",
+      "is_directory": false,
+      "size": 167286,
+      "created_at": "Mon, 23 Nov 2026 09:19:17 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:17 -0000",
+      "sha1_hash": "0a864e31ed782d76b2d3959fd871f7f7b601a04a"
+    },
+    {
+      "path": "mg9/kitap/081.jpg",
+      "is_directory": false,
+      "size": 128864,
+      "created_at": "Mon, 23 Nov 2026 09:19:18 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:18 -0000",
+      "sha1_hash": "d6ecf63dd7463ac18bbd81b62843ce1ed25a5165"
+    },
+    {
+      "path": "mg9/kitap/082.jpg",
+      "is_directory": false,
+      "size": 164620,
+      "created_at": "Mon, 23 Nov 2026 09:19:18 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:18 -0000",
+      "sha1_hash": "06f4a1fb687212a07375dc8f1b5a39c24bac5687"
+    },
+    {
+      "path": "mg9/kitap/083.jpg",
+      "is_directory": false,
+      "size": 115596,
+      "created_at": "Mon, 23 Nov 2026 09:19:18 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:18 -0000",
+      "sha1_hash": "ea22e10c3a3378be6fb6f62bbbe9473f5d0c0bd3"
+    },
+    {
+      "path": "mg9/kitap/084.jpg",
+      "is_directory": false,
+      "size": 154612,
+      "created_at": "Mon, 23 Nov 2026 09:19:19 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:19 -0000",
+      "sha1_hash": "0129c4c9be6550f2d6dcdf3e9f2de7d4b334f86d"
+    },
+    {
+      "path": "mg9/kitap/085.jpg",
+      "is_directory": false,
+      "size": 182842,
+      "created_at": "Mon, 23 Nov 2026 09:19:19 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:19 -0000",
+      "sha1_hash": "15f5eab0ae6bfd5f25a236712286ca6c8147ba5b"
+    },
+    {
+      "path": "mg9/kitap/086.jpg",
+      "is_directory": false,
+      "size": 129233,
+      "created_at": "Mon, 23 Nov 2026 09:19:19 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:19 -0000",
+      "sha1_hash": "4c69b2b2d0151cd739b30660d3c96be53d53ad88"
+    },
+    {
+      "path": "mg9/kitap/087.jpg",
+      "is_directory": false,
+      "size": 157350,
+      "created_at": "Mon, 23 Nov 2026 09:19:20 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:20 -0000",
+      "sha1_hash": "a2a70ab32d546ece6fb11024b55bc2978c07b16c"
+    },
+    {
+      "path": "mg9/kitap/088.jpg",
+      "is_directory": false,
+      "size": 175801,
+      "created_at": "Mon, 23 Nov 2026 09:19:20 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:20 -0000",
+      "sha1_hash": "8d4d9af0c5d617d2550b093c5848dfcf8023e834"
+    },
+    {
+      "path": "mg9/kitap/089.jpg",
+      "is_directory": false,
+      "size": 186773,
+      "created_at": "Mon, 23 Nov 2026 09:19:21 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:21 -0000",
+      "sha1_hash": "2d30eb74432b39d08b8ad1439a2bcf2b937a9284"
+    },
+    {
+      "path": "mg9/kitap/090.jpg",
+      "is_directory": false,
+      "size": 192711,
+      "created_at": "Mon, 23 Nov 2026 09:19:21 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:21 -0000",
+      "sha1_hash": "002c04d06dd8a27d046ab9592311ffae639c1513"
+    },
+    {
+      "path": "mg9/kitap/091.jpg",
+      "is_directory": false,
+      "size": 165978,
+      "created_at": "Mon, 23 Nov 2026 09:19:21 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:21 -0000",
+      "sha1_hash": "7fff465c299c26e957bfbaa880eb0e53beced8fb"
+    },
+    {
+      "path": "mg9/kitap/092.jpg",
+      "is_directory": false,
+      "size": 159367,
+      "created_at": "Mon, 23 Nov 2026 09:19:22 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:22 -0000",
+      "sha1_hash": "e702845b4aff515a46c91710b667b1082848f8d4"
+    },
+    {
+      "path": "mg9/kitap/093.jpg",
+      "is_directory": false,
+      "size": 136531,
+      "created_at": "Mon, 23 Nov 2026 09:19:22 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:22 -0000",
+      "sha1_hash": "e97b25cc4f7e3a4bbed926508398beb8602dc062"
+    },
+    {
+      "path": "mg9/kitap/094.jpg",
+      "is_directory": false,
+      "size": 145402,
+      "created_at": "Mon, 23 Nov 2026 09:19:22 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:22 -0000",
+      "sha1_hash": "f8f564acef54dad4fea67c9e06f86b75873ab604"
+    },
+    {
+      "path": "mg9/kitap/095.jpg",
+      "is_directory": false,
+      "size": 108165,
+      "created_at": "Mon, 23 Nov 2026 09:19:23 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:23 -0000",
+      "sha1_hash": "323a74cbaf66b95ca7ecc2fe54ec74a4843eaed7"
+    },
+    {
+      "path": "mg9/kitap/096.jpg",
+      "is_directory": false,
+      "size": 143159,
+      "created_at": "Mon, 23 Nov 2026 09:19:23 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:23 -0000",
+      "sha1_hash": "22063e9896f33dbd7eecb71ef98fcf50380a134c"
+    },
+    {
+      "path": "mg9/kitap/097.jpg",
+      "is_directory": false,
+      "size": 197640,
+      "created_at": "Mon, 23 Nov 2026 09:19:24 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:24 -0000",
+      "sha1_hash": "143dd23d3f0e73d394286908be6f9f62e49db8e8"
+    },
+    {
+      "path": "mg9/kitap/098.jpg",
+      "is_directory": false,
+      "size": 188750,
+      "created_at": "Mon, 23 Nov 2026 09:19:24 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:24 -0000",
+      "sha1_hash": "fc2b1dac90f74113a00f94d74e42c56463414196"
+    },
+    {
+      "path": "mg9/kitap/099.jpg",
+      "is_directory": false,
+      "size": 137760,
+      "created_at": "Mon, 23 Nov 2026 09:19:25 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:25 -0000",
+      "sha1_hash": "f1fdee253ab95a2b98e39b0b66e610824c1b1c1f"
+    },
+    {
+      "path": "mg9/kitap/100.jpg",
+      "is_directory": false,
+      "size": 115970,
+      "created_at": "Mon, 23 Nov 2026 09:19:25 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:25 -0000",
+      "sha1_hash": "3944b8cc95556ac1f986db76b36603069b541bfd"
+    },
+    {
+      "path": "mg9/kitap/101.jpg",
+      "is_directory": false,
+      "size": 134490,
+      "created_at": "Mon, 23 Nov 2026 09:19:25 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:25 -0000",
+      "sha1_hash": "c2c75d9c0843f4af740edf79ed172c6aa55ce2f4"
+    },
+    {
+      "path": "mg9/kitap/102.jpg",
+      "is_directory": false,
+      "size": 165111,
+      "created_at": "Mon, 23 Nov 2026 09:19:27 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:27 -0000",
+      "sha1_hash": "5fd7848d76d8c689d388498de34ba1056a42ed5a"
+    },
+    {
+      "path": "mg9/kitap/103.jpg",
+      "is_directory": false,
+      "size": 187792,
+      "created_at": "Mon, 23 Nov 2026 09:19:27 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:27 -0000",
+      "sha1_hash": "5b6092fe1424fd4cca8eeaae8771ff063345e0f8"
+    },
+    {
+      "path": "mg9/kitap/104.jpg",
+      "is_directory": false,
+      "size": 126067,
+      "created_at": "Mon, 23 Nov 2026 09:19:28 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:28 -0000",
+      "sha1_hash": "80a970f6e41ed109893179b2dff8bdafcc87f216"
+    },
+    {
+      "path": "mg9/kitap/105.jpg",
+      "is_directory": false,
+      "size": 124356,
+      "created_at": "Mon, 23 Nov 2026 09:19:28 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:28 -0000",
+      "sha1_hash": "c77fa4ec4b2aecca8fcaf6398b151d48f2cb46ba"
+    },
+    {
+      "path": "mg9/kitap/106.jpg",
+      "is_directory": false,
+      "size": 157003,
+      "created_at": "Mon, 23 Nov 2026 09:19:29 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:29 -0000",
+      "sha1_hash": "7589cd545f0fbbce29eb18e3d0d7c4a8732db739"
+    },
+    {
+      "path": "mg9/kitap/107.jpg",
+      "is_directory": false,
+      "size": 179902,
+      "created_at": "Mon, 23 Nov 2026 09:19:29 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:29 -0000",
+      "sha1_hash": "6cfaadf420d60b8538504cb532b111bc3f1c87e6"
+    },
+    {
+      "path": "mg9/kitap/108.jpg",
+      "is_directory": false,
+      "size": 167799,
+      "created_at": "Mon, 23 Nov 2026 09:19:29 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:29 -0000",
+      "sha1_hash": "8cd4a6a13f5383a3df1095399e87e4d03c5ed026"
+    },
+    {
+      "path": "mg9/kitap/109.jpg",
+      "is_directory": false,
+      "size": 163402,
+      "created_at": "Mon, 23 Nov 2026 09:19:30 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:30 -0000",
+      "sha1_hash": "46cd990225b0daed1811614ca4ad32b4caeb169d"
+    },
+    {
+      "path": "mg9/kitap/110.jpg",
+      "is_directory": false,
+      "size": 140123,
+      "created_at": "Mon, 23 Nov 2026 09:19:30 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:30 -0000",
+      "sha1_hash": "1f863cd0f5dd2368591fbfc8891f155049b31d8d"
+    },
+    {
+      "path": "mg9/kitap/111.jpg",
+      "is_directory": false,
+      "size": 146648,
+      "created_at": "Mon, 23 Nov 2026 09:19:31 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:31 -0000",
+      "sha1_hash": "9c9b6f2aacb39987c7b46a0be7d4d8051ee03c3a"
+    },
+    {
+      "path": "mg9/kitap/112.jpg",
+      "is_directory": false,
+      "size": 167154,
+      "created_at": "Mon, 23 Nov 2026 09:19:31 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:31 -0000",
+      "sha1_hash": "a039600420a40ac68251ab40fc1ecb527c9bbba0"
+    },
+    {
+      "path": "mg9/kitap/113.jpg",
+      "is_directory": false,
+      "size": 126848,
+      "created_at": "Mon, 23 Nov 2026 09:19:31 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:31 -0000",
+      "sha1_hash": "927470a029e1e53cb693783738e8e307d74d0457"
+    },
+    {
+      "path": "mg9/kitap/114.jpg",
+      "is_directory": false,
+      "size": 145106,
+      "created_at": "Mon, 23 Nov 2026 09:19:32 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:32 -0000",
+      "sha1_hash": "c38262e207e0ee3e0e94ddcfea0e0f90515724aa"
+    },
+    {
+      "path": "mg9/kitap/115.jpg",
+      "is_directory": false,
+      "size": 127743,
+      "created_at": "Mon, 23 Nov 2026 09:19:32 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:32 -0000",
+      "sha1_hash": "a30e4519cef70f7185e7a5a9c67443be8055fbb6"
+    },
+    {
+      "path": "mg9/kitap/116.jpg",
+      "is_directory": false,
+      "size": 182139,
+      "created_at": "Mon, 23 Nov 2026 09:19:33 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:33 -0000",
+      "sha1_hash": "5ce7764186f7d3af18a231afa366745c85520b47"
+    },
+    {
+      "path": "mg9/kitap/117.jpg",
+      "is_directory": false,
+      "size": 147281,
+      "created_at": "Mon, 23 Nov 2026 09:19:33 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:33 -0000",
+      "sha1_hash": "a21999ff94df47049071fef1a2a1b5f4c41bf368"
+    },
+    {
+      "path": "mg9/kitap/118.jpg",
+      "is_directory": false,
+      "size": 137591,
+      "created_at": "Mon, 23 Nov 2026 09:19:33 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:33 -0000",
+      "sha1_hash": "a0b9636ede9df671405fa4ee2fada712c511329a"
+    },
+    {
+      "path": "mg9/kitap/119.jpg",
+      "is_directory": false,
+      "size": 141258,
+      "created_at": "Mon, 23 Nov 2026 09:19:34 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:34 -0000",
+      "sha1_hash": "3723cf079c349f5d4fa4323355d4be0cae66ac07"
+    },
+    {
+      "path": "mg9/kitap/120.jpg",
+      "is_directory": false,
+      "size": 129218,
+      "created_at": "Mon, 23 Nov 2026 09:19:34 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:34 -0000",
+      "sha1_hash": "7647f62f9fe4789fd61f6bd04d0f3b4c08827dfb"
+    },
+    {
+      "path": "mg9/kitap/121.jpg",
+      "is_directory": false,
+      "size": 185063,
+      "created_at": "Mon, 23 Nov 2026 09:19:34 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:34 -0000",
+      "sha1_hash": "d254c26c664a1a8905809f8901fd56aebcfa58c5"
+    },
+    {
+      "path": "mg9/kitap/122.jpg",
+      "is_directory": false,
+      "size": 187824,
+      "created_at": "Mon, 23 Nov 2026 09:19:35 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:35 -0000",
+      "sha1_hash": "c6a826e42d6f5ffbf7465987ed3c131178bbc830"
+    },
+    {
+      "path": "mg9/kitap/123.jpg",
+      "is_directory": false,
+      "size": 160287,
+      "created_at": "Mon, 23 Nov 2026 09:19:35 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:35 -0000",
+      "sha1_hash": "3d6fcd3b003f42e38ea94edde6b29854e89b2791"
+    },
+    {
+      "path": "mg9/kitap/124.jpg",
+      "is_directory": false,
+      "size": 170217,
+      "created_at": "Mon, 23 Nov 2026 09:19:36 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:36 -0000",
+      "sha1_hash": "0a1d8bca9a7ad27fe353e60ecc36b5a75c63557c"
+    },
+    {
+      "path": "mg9/kitap/125.jpg",
+      "is_directory": false,
+      "size": 148983,
+      "created_at": "Mon, 23 Nov 2026 09:19:36 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:36 -0000",
+      "sha1_hash": "b00d8d03e00492860702545a0c75b0c792da3525"
+    },
+    {
+      "path": "mg9/kitap/126.jpg",
+      "is_directory": false,
+      "size": 147378,
+      "created_at": "Mon, 23 Nov 2026 09:19:36 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:36 -0000",
+      "sha1_hash": "0d667c85112fb6374bf7374d37281ad71f445180"
+    },
+    {
+      "path": "mg9/kitap/127.jpg",
+      "is_directory": false,
+      "size": 142409,
+      "created_at": "Mon, 23 Nov 2026 09:19:37 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:37 -0000",
+      "sha1_hash": "4ab4cd6b5b41b1d7613466a694d04a8e913a9569"
+    },
+    {
+      "path": "mg9/kitap/128.jpg",
+      "is_directory": false,
+      "size": 128521,
+      "created_at": "Mon, 23 Nov 2026 09:19:37 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:37 -0000",
+      "sha1_hash": "7698cb42dcbc79d20c7dc9b53e61d1ac7d8dc4e1"
+    },
+    {
+      "path": "mg9/kitap/129.jpg",
+      "is_directory": false,
+      "size": 151981,
+      "created_at": "Mon, 23 Nov 2026 09:19:37 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:37 -0000",
+      "sha1_hash": "1d61cf2c70f3912284a8119bd8ef8a434e1598a8"
+    },
+    {
+      "path": "mg9/kitap/130.jpg",
+      "is_directory": false,
+      "size": 182112,
+      "created_at": "Mon, 23 Nov 2026 09:19:38 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:38 -0000",
+      "sha1_hash": "4d50be8a29a15d893a4aece62df451f817e3832d"
+    },
+    {
+      "path": "mg9/kitap/131.jpg",
+      "is_directory": false,
+      "size": 181105,
+      "created_at": "Mon, 23 Nov 2026 09:19:38 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:38 -0000",
+      "sha1_hash": "45383cd79267b014d17278960d88d854047252fd"
+    },
+    {
+      "path": "mg9/kitap/132.jpg",
+      "is_directory": false,
+      "size": 196034,
+      "created_at": "Mon, 23 Nov 2026 09:19:39 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:39 -0000",
+      "sha1_hash": "515ad63667a2153a63e66ca78ce05eb77483553c"
+    },
+    {
+      "path": "mg9/kitap/133.jpg",
+      "is_directory": false,
+      "size": 152526,
+      "created_at": "Mon, 23 Nov 2026 09:19:39 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:39 -0000",
+      "sha1_hash": "50d5aeab2093c5b20ac80f9e5756707a088574ff"
+    },
+    {
+      "path": "mg9/kitap/134.jpg",
+      "is_directory": false,
+      "size": 119295,
+      "created_at": "Mon, 23 Nov 2026 09:19:39 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:39 -0000",
+      "sha1_hash": "961d5abbb1961227e0a7a1ee0082cb708429acff"
+    },
+    {
+      "path": "mg9/kitap/135.jpg",
+      "is_directory": false,
+      "size": 89647,
+      "created_at": "Mon, 23 Nov 2026 09:19:40 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:40 -0000",
+      "sha1_hash": "486ab7ecaf36e8694d785d6dc2b1fd52d341298e"
+    },
+    {
+      "path": "mg9/kitap/136.jpg",
+      "is_directory": false,
+      "size": 150831,
+      "created_at": "Mon, 23 Nov 2026 09:19:40 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:40 -0000",
+      "sha1_hash": "43810e5561927df7d2e964d5c980cb5372327fa9"
+    },
+    {
+      "path": "mg9/kitap/137.jpg",
+      "is_directory": false,
+      "size": 180245,
+      "created_at": "Mon, 23 Nov 2026 09:19:40 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:40 -0000",
+      "sha1_hash": "b8b6f1ba390c37a5aecfe259470b012ffd009870"
+    },
+    {
+      "path": "mg9/kitap/138.jpg",
+      "is_directory": false,
+      "size": 181104,
+      "created_at": "Mon, 23 Nov 2026 09:19:41 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:41 -0000",
+      "sha1_hash": "b1b83f067931f9e96d93a86d135b67f9107f5b85"
+    },
+    {
+      "path": "mg9/kitap/139.jpg",
+      "is_directory": false,
+      "size": 129784,
+      "created_at": "Mon, 23 Nov 2026 09:19:41 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:41 -0000",
+      "sha1_hash": "4891d30edcb0610f3fbba5ec957c61719352674d"
+    },
+    {
+      "path": "mg9/kitap/140.jpg",
+      "is_directory": false,
+      "size": 156750,
+      "created_at": "Mon, 23 Nov 2026 09:19:42 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:42 -0000",
+      "sha1_hash": "df25e18e4f3753886b229a74338982b4679a12bf"
+    },
+    {
+      "path": "mg9/kitap/141.jpg",
+      "is_directory": false,
+      "size": 140080,
+      "created_at": "Mon, 23 Nov 2026 09:19:42 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:42 -0000",
+      "sha1_hash": "9a5ef5e110d82602acb5b4a74ab8eb07beea9072"
+    },
+    {
+      "path": "mg9/kitap/142.jpg",
+      "is_directory": false,
+      "size": 167909,
+      "created_at": "Mon, 23 Nov 2026 09:19:42 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:42 -0000",
+      "sha1_hash": "55d99720028b6cf260e3d30d9a02ab8fd4c8ea55"
+    },
+    {
+      "path": "mg9/kitap/143.jpg",
+      "is_directory": false,
+      "size": 161297,
+      "created_at": "Mon, 23 Nov 2026 09:19:43 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:43 -0000",
+      "sha1_hash": "98425bd0abcb3d730b72da6fd5b2adba89548cee"
+    },
+    {
+      "path": "mg9/kitap/144.jpg",
+      "is_directory": false,
+      "size": 152020,
+      "created_at": "Mon, 23 Nov 2026 09:19:43 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:43 -0000",
+      "sha1_hash": "e82cc5127adbf7c65db488428c9a2dd662ae69a9"
+    },
+    {
+      "path": "mg9/kitap/145.jpg",
+      "is_directory": false,
+      "size": 158533,
+      "created_at": "Mon, 23 Nov 2026 09:19:44 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:44 -0000",
+      "sha1_hash": "d9cb01e173f96cfaebc40e73f67cfe8bd7e3199f"
+    },
+    {
+      "path": "mg9/kitap/146.jpg",
+      "is_directory": false,
+      "size": 150760,
+      "created_at": "Mon, 23 Nov 2026 09:19:44 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:44 -0000",
+      "sha1_hash": "fd670289861c9044bc842ec68299f4a98012d7fe"
+    },
+    {
+      "path": "mg9/kitap/147.jpg",
+      "is_directory": false,
+      "size": 176023,
+      "created_at": "Mon, 23 Nov 2026 09:19:44 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:44 -0000",
+      "sha1_hash": "def7f425c92d42559567b52e388c17a117826cf5"
+    },
+    {
+      "path": "mg9/kitap/148.jpg",
+      "is_directory": false,
+      "size": 141053,
+      "created_at": "Mon, 23 Nov 2026 09:19:45 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:45 -0000",
+      "sha1_hash": "e9f3a48ec1fde1bd0450a0e8528d1cbf764b435d"
+    },
+    {
+      "path": "mg9/kitap/149.jpg",
+      "is_directory": false,
+      "size": 110085,
+      "created_at": "Mon, 23 Nov 2026 09:19:45 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:45 -0000",
+      "sha1_hash": "fa915ece8998df29f10c5f1b38e4ef36d8063096"
+    },
+    {
+      "path": "mg9/kitap/150.jpg",
+      "is_directory": false,
+      "size": 177475,
+      "created_at": "Mon, 23 Nov 2026 09:19:46 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:46 -0000",
+      "sha1_hash": "5cb8ee6bed6f59e5f8762a4084396a2722b2347b"
+    },
+    {
+      "path": "mg9/kitap/151.jpg",
+      "is_directory": false,
+      "size": 168951,
+      "created_at": "Mon, 23 Nov 2026 09:19:46 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:46 -0000",
+      "sha1_hash": "cb37ee4f9be7c7bde231ad8d03afb5f2b355717e"
+    },
+    {
+      "path": "mg9/kitap/152.jpg",
+      "is_directory": false,
+      "size": 131504,
+      "created_at": "Mon, 23 Nov 2026 09:19:46 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:46 -0000",
+      "sha1_hash": "f913ed32e06f79563806591cf351a588b5aae3d8"
+    },
+    {
+      "path": "mg9/kitap/153.jpg",
+      "is_directory": false,
+      "size": 164466,
+      "created_at": "Mon, 23 Nov 2026 09:19:47 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:47 -0000",
+      "sha1_hash": "7b498fcd289e5abc0e21f68de61f342963a35c57"
+    },
+    {
+      "path": "mg9/kitap/154.jpg",
+      "is_directory": false,
+      "size": 129590,
+      "created_at": "Mon, 23 Nov 2026 09:19:47 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:47 -0000",
+      "sha1_hash": "9661bb4df2d2bb47e5c152be60f859a8c5dc9d4c"
+    },
+    {
+      "path": "mg9/kitap/155.jpg",
+      "is_directory": false,
+      "size": 184451,
+      "created_at": "Mon, 23 Nov 2026 09:19:48 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:48 -0000",
+      "sha1_hash": "2a0a4b5b592b3862f533c7a64343c36847718072"
+    },
+    {
+      "path": "mg9/kitap/156.jpg",
+      "is_directory": false,
+      "size": 211368,
+      "created_at": "Mon, 23 Nov 2026 09:19:48 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:48 -0000",
+      "sha1_hash": "a6e69918b1c17bb87f7c8dfb8a32eaff2aae8c39"
+    },
+    {
+      "path": "mg9/kitap/157.jpg",
+      "is_directory": false,
+      "size": 168137,
+      "created_at": "Mon, 23 Nov 2026 09:19:48 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:48 -0000",
+      "sha1_hash": "4f5dc0b8a2e663772d5c12b56f6f9b7e0560d82c"
+    },
+    {
+      "path": "mg9/kitap/158.jpg",
+      "is_directory": false,
+      "size": 166658,
+      "created_at": "Mon, 23 Nov 2026 09:19:49 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:49 -0000",
+      "sha1_hash": "d1690bb8d180643446acc7994b7bc3277ce1e289"
+    },
+    {
+      "path": "mg9/kitap/159.jpg",
+      "is_directory": false,
+      "size": 141154,
+      "created_at": "Mon, 23 Nov 2026 09:19:50 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:50 -0000",
+      "sha1_hash": "68f3550d3542197e25f255bcaddce1b0b0d1d649"
+    },
+    {
+      "path": "mg9/kitap/160.jpg",
+      "is_directory": false,
+      "size": 158111,
+      "created_at": "Mon, 23 Nov 2026 09:19:50 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:50 -0000",
+      "sha1_hash": "8608527e7c365d178623e06b2906e21a13b13d5b"
+    },
+    {
+      "path": "mg9/kitap/161.jpg",
+      "is_directory": false,
+      "size": 163044,
+      "created_at": "Mon, 23 Nov 2026 09:19:51 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:51 -0000",
+      "sha1_hash": "42ad1034dd71ba100bcf31847655cc89951aa5bb"
+    },
+    {
+      "path": "mg9/kitap/162.jpg",
+      "is_directory": false,
+      "size": 136649,
+      "created_at": "Mon, 23 Nov 2026 09:19:51 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:51 -0000",
+      "sha1_hash": "ac60da821509c867fa4f0bbb33ff3c487276fbdc"
+    },
+    {
+      "path": "mg9/kitap/163.jpg",
+      "is_directory": false,
+      "size": 165580,
+      "created_at": "Mon, 23 Nov 2026 09:19:51 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:51 -0000",
+      "sha1_hash": "ac21ae033835293234e8c4883372865766419f7e"
+    },
+    {
+      "path": "mg9/kitap/164.jpg",
+      "is_directory": false,
+      "size": 193310,
+      "created_at": "Mon, 23 Nov 2026 09:19:52 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:52 -0000",
+      "sha1_hash": "4954356fd2732db6d22147d7d48a5eae24083f20"
+    },
+    {
+      "path": "mg9/kitap/165.jpg",
+      "is_directory": false,
+      "size": 164968,
+      "created_at": "Mon, 23 Nov 2026 09:19:52 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:52 -0000",
+      "sha1_hash": "d5ea28d6b04d1bec6acee8a580a07aad693a2d58"
+    },
+    {
+      "path": "mg9/kitap/166.jpg",
+      "is_directory": false,
+      "size": 138662,
+      "created_at": "Mon, 23 Nov 2026 09:19:53 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:53 -0000",
+      "sha1_hash": "9df9bc291b2877d9dcb37b2099edfc7e5a4a7c69"
+    },
+    {
+      "path": "mg9/kitap/167.jpg",
+      "is_directory": false,
+      "size": 151607,
+      "created_at": "Mon, 23 Nov 2026 09:19:53 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:53 -0000",
+      "sha1_hash": "fe35ae289be68fdd60f76d3bdeb15504b261d6b2"
+    },
+    {
+      "path": "mg9/kitap/168.jpg",
+      "is_directory": false,
+      "size": 130672,
+      "created_at": "Mon, 23 Nov 2026 09:19:53 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:53 -0000",
+      "sha1_hash": "28d1ce65895226705498a52b3349eeada0ebe8d3"
+    },
+    {
+      "path": "mg9/kitap/169.jpg",
+      "is_directory": false,
+      "size": 152784,
+      "created_at": "Mon, 23 Nov 2026 09:19:54 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:54 -0000",
+      "sha1_hash": "118aad3ea42dbec4332673b5cd85c5f7aad8548f"
+    },
+    {
+      "path": "mg9/kitap/170.jpg",
+      "is_directory": false,
+      "size": 172665,
+      "created_at": "Mon, 23 Nov 2026 09:19:54 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:54 -0000",
+      "sha1_hash": "321ff0388c0d5ad58cf8540f62b5d429c583c731"
+    },
+    {
+      "path": "mg9/kitap/171.jpg",
+      "is_directory": false,
+      "size": 167237,
+      "created_at": "Mon, 23 Nov 2026 09:19:55 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:55 -0000",
+      "sha1_hash": "a12d00a1513ee954f2ee06aeecf48c747b509cd2"
+    },
+    {
+      "path": "mg9/kitap/172.jpg",
+      "is_directory": false,
+      "size": 146976,
+      "created_at": "Mon, 23 Nov 2026 09:19:55 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:55 -0000",
+      "sha1_hash": "95860127a9c2995e48dfcc08d7a28e800c35c63a"
+    },
+    {
+      "path": "mg9/kitap/173.jpg",
+      "is_directory": false,
+      "size": 143345,
+      "created_at": "Mon, 23 Nov 2026 09:19:55 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:55 -0000",
+      "sha1_hash": "0b07d6dd009b0671fb3eb0d95544a5eb3af367c3"
+    },
+    {
+      "path": "mg9/kitap/174.jpg",
+      "is_directory": false,
+      "size": 159467,
+      "created_at": "Mon, 23 Nov 2026 09:19:56 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:56 -0000",
+      "sha1_hash": "25b66166e4cb21803a7401a7602e8639c3e79b82"
+    },
+    {
+      "path": "mg9/kitap/175.jpg",
+      "is_directory": false,
+      "size": 151321,
+      "created_at": "Mon, 23 Nov 2026 09:19:56 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:56 -0000",
+      "sha1_hash": "67a2b63dee498de49102fb67731ca7158ad1af52"
+    },
+    {
+      "path": "mg9/kitap/176.jpg",
+      "is_directory": false,
+      "size": 185485,
+      "created_at": "Mon, 23 Nov 2026 09:19:57 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:57 -0000",
+      "sha1_hash": "bd9ca49d32a269f4a53585bcd9fe374da5b81bb0"
+    },
+    {
+      "path": "mg9/kitap/177.jpg",
+      "is_directory": false,
+      "size": 152389,
+      "created_at": "Mon, 23 Nov 2026 09:19:57 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:57 -0000",
+      "sha1_hash": "3be25d8f22bd42533d20a1002a86b8ca1828084a"
+    },
+    {
+      "path": "mg9/kitap/178.jpg",
+      "is_directory": false,
+      "size": 141510,
+      "created_at": "Mon, 23 Nov 2026 09:19:57 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:57 -0000",
+      "sha1_hash": "a859a173516ca971a2818be5129677af478612f4"
+    },
+    {
+      "path": "mg9/kitap/179.jpg",
+      "is_directory": false,
+      "size": 132668,
+      "created_at": "Mon, 23 Nov 2026 09:19:58 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:58 -0000",
+      "sha1_hash": "f92a5afcc98a19455efe0faa025068bcc8ab1070"
+    },
+    {
+      "path": "mg9/kitap/180.jpg",
+      "is_directory": false,
+      "size": 134693,
+      "created_at": "Mon, 23 Nov 2026 09:19:58 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:58 -0000",
+      "sha1_hash": "444dbf020836bd2a1ad15f5212a44a5b5de9305f"
+    },
+    {
+      "path": "mg9/kitap/181.jpg",
+      "is_directory": false,
+      "size": 133941,
+      "created_at": "Mon, 23 Nov 2026 09:19:59 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:59 -0000",
+      "sha1_hash": "1fe62ccb8a14fec3f8277b96272269723bc3c158"
+    },
+    {
+      "path": "mg9/kitap/182.jpg",
+      "is_directory": false,
+      "size": 151199,
+      "created_at": "Mon, 23 Nov 2026 09:19:59 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:59 -0000",
+      "sha1_hash": "8ec8a5d998194dbcb0574b32f73d48b616269c4f"
+    },
+    {
+      "path": "mg9/kitap/183.jpg",
+      "is_directory": false,
+      "size": 176969,
+      "created_at": "Mon, 23 Nov 2026 09:19:59 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:59 -0000",
+      "sha1_hash": "bce6cd5c899c1dd23bdb02e09a31f3f30080b653"
+    },
+    {
+      "path": "mg9/kitap/184.jpg",
+      "is_directory": false,
+      "size": 148992,
+      "created_at": "Mon, 23 Nov 2026 09:20:00 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:00 -0000",
+      "sha1_hash": "c8eca6b45430bab6298937aea826de9aad48abb2"
+    },
+    {
+      "path": "mg9/kitap/185.jpg",
+      "is_directory": false,
+      "size": 128786,
+      "created_at": "Mon, 23 Nov 2026 09:20:00 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:00 -0000",
+      "sha1_hash": "2513bee080769e9b593989480af4e531c8eb7d5b"
+    },
+    {
+      "path": "mg9/kitap/186.jpg",
+      "is_directory": false,
+      "size": 145764,
+      "created_at": "Mon, 23 Nov 2026 09:20:01 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:01 -0000",
+      "sha1_hash": "cb83c17c53af6ebc06e3691db5f0a3089a66bf89"
+    },
+    {
+      "path": "mg9/kitap/187.jpg",
+      "is_directory": false,
+      "size": 141061,
+      "created_at": "Mon, 23 Nov 2026 09:20:01 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:01 -0000",
+      "sha1_hash": "39344b342b90a522d775ddbc3d99269d2e7d5ab4"
+    },
+    {
+      "path": "mg9/kitap/188.jpg",
+      "is_directory": false,
+      "size": 167097,
+      "created_at": "Mon, 23 Nov 2026 09:20:01 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:01 -0000",
+      "sha1_hash": "2643d3b3da7abb578d1ef1d99cfea7581bf3cccf"
+    },
+    {
+      "path": "mg9/kitap/189.jpg",
+      "is_directory": false,
+      "size": 168663,
+      "created_at": "Mon, 23 Nov 2026 09:20:02 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:02 -0000",
+      "sha1_hash": "7ed75c22bc1cccd8337048c8b34ae3ce946f69fd"
+    },
+    {
+      "path": "mg9/kitap/190.jpg",
+      "is_directory": false,
+      "size": 157308,
+      "created_at": "Mon, 23 Nov 2026 09:20:02 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:02 -0000",
+      "sha1_hash": "b4cfc203053de9f315d17d186c869979bd730400"
+    },
+    {
+      "path": "mg9/kitap/191.jpg",
+      "is_directory": false,
+      "size": 121019,
+      "created_at": "Mon, 23 Nov 2026 09:20:03 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:03 -0000",
+      "sha1_hash": "ea02d3a11d26d6ca47b8b5dc38d9812ef4d83f85"
+    },
+    {
+      "path": "mg9/kitap/192.jpg",
+      "is_directory": false,
+      "size": 131159,
+      "created_at": "Mon, 23 Nov 2026 09:20:03 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:03 -0000",
+      "sha1_hash": "65218cf2e9a271a0bb93e7af6618999e3a912380"
+    },
+    {
+      "path": "mg9/kitap/193.jpg",
+      "is_directory": false,
+      "size": 171759,
+      "created_at": "Mon, 23 Nov 2026 09:20:03 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:03 -0000",
+      "sha1_hash": "4ba2b2c9656f4de85b6f36b3c64947a055816983"
+    },
+    {
+      "path": "mg9/kitap/194.jpg",
+      "is_directory": false,
+      "size": 203906,
+      "created_at": "Mon, 23 Nov 2026 09:20:04 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:04 -0000",
+      "sha1_hash": "0e7ac6b1a19b6c6e444eddc9084c440c6b96130d"
+    },
+    {
+      "path": "mg9/kitap/195.jpg",
+      "is_directory": false,
+      "size": 170295,
+      "created_at": "Mon, 23 Nov 2026 09:20:04 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:04 -0000",
+      "sha1_hash": "ecbc4742cdabf38dc07a0b4dcdd95e968d956e1a"
+    },
+    {
+      "path": "mg9/kitap/196.jpg",
+      "is_directory": false,
+      "size": 199401,
+      "created_at": "Mon, 23 Nov 2026 09:20:05 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:05 -0000",
+      "sha1_hash": "3bc1b1e4423794cfa978fa226c3bc3140f9d0e44"
+    },
+    {
+      "path": "mg9/kitap/197.jpg",
+      "is_directory": false,
+      "size": 178480,
+      "created_at": "Mon, 23 Nov 2026 09:20:05 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:05 -0000",
+      "sha1_hash": "4ac2d9a60b15b967e6dd73c289a86c63ed813ab8"
+    },
+    {
+      "path": "mg9/kitap/198.jpg",
+      "is_directory": false,
+      "size": 140860,
+      "created_at": "Mon, 23 Nov 2026 09:20:06 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:06 -0000",
+      "sha1_hash": "3f1f812aa591b5c506c394b3a6aadbcc16688ec9"
+    },
+    {
+      "path": "mg9/kitap/199.jpg",
+      "is_directory": false,
+      "size": 150511,
+      "created_at": "Mon, 23 Nov 2026 09:20:06 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:06 -0000",
+      "sha1_hash": "6fd832552772f43aac6d5bec715df3ef4295c759"
+    },
+    {
+      "path": "mg9/kitap/200.jpg",
+      "is_directory": false,
+      "size": 151304,
+      "created_at": "Mon, 23 Nov 2026 09:20:07 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:07 -0000",
+      "sha1_hash": "ad4aa07dc6587f21dc748ebe2529764f26205c2e"
+    },
+    {
+      "path": "mg9/kitap/201.jpg",
+      "is_directory": false,
+      "size": 135836,
+      "created_at": "Mon, 23 Nov 2026 09:20:07 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:07 -0000",
+      "sha1_hash": "62e3671cc5ebbee590362cfa6ab4d3a95067ea92"
+    },
+    {
+      "path": "mg9/kitap/202.jpg",
+      "is_directory": false,
+      "size": 181721,
+      "created_at": "Mon, 23 Nov 2026 09:20:08 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:08 -0000",
+      "sha1_hash": "5375876540d456cd0de72be1f4a30a769b3d69aa"
+    },
+    {
+      "path": "mg9/kitap/203.jpg",
+      "is_directory": false,
+      "size": 186972,
+      "created_at": "Mon, 23 Nov 2026 09:20:08 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:08 -0000",
+      "sha1_hash": "ec1f54bc982dfa01dc434231d0f2d6f8d07c8505"
+    },
+    {
+      "path": "mg9/kitap/204.jpg",
+      "is_directory": false,
+      "size": 161827,
+      "created_at": "Mon, 23 Nov 2026 09:20:09 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:09 -0000",
+      "sha1_hash": "0a6668a5bda27b7b3c2eb71417a66fcb99896317"
+    },
+    {
+      "path": "mg9/kitap/205.jpg",
+      "is_directory": false,
+      "size": 150469,
+      "created_at": "Mon, 23 Nov 2026 09:20:09 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:09 -0000",
+      "sha1_hash": "b95ea2b4d516aa010f22ea929d0d1dd28e8fe562"
+    },
+    {
+      "path": "mg9/kitap/206.jpg",
+      "is_directory": false,
+      "size": 142109,
+      "created_at": "Mon, 23 Nov 2026 09:20:09 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:09 -0000",
+      "sha1_hash": "96dc717ac40ec2508b0bbc6e392429fc91694bf9"
+    },
+    {
+      "path": "mg9/kitap/207.jpg",
+      "is_directory": false,
+      "size": 150169,
+      "created_at": "Mon, 23 Nov 2026 09:20:10 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:10 -0000",
+      "sha1_hash": "5d01c5fbb1b54ef6c37ec36615d38a38ea2d3dd2"
+    },
+    {
+      "path": "mg9/kitap/208.jpg",
+      "is_directory": false,
+      "size": 168593,
+      "created_at": "Mon, 23 Nov 2026 09:20:10 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:10 -0000",
+      "sha1_hash": "00b87edebc0b701d37dc1279183d0d681bf401cc"
+    },
+    {
+      "path": "mg9/kitap/209.jpg",
+      "is_directory": false,
+      "size": 149181,
+      "created_at": "Mon, 23 Nov 2026 09:20:11 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:11 -0000",
+      "sha1_hash": "ab32ef9295cf95f66cc63a8031c859449dc224be"
+    },
+    {
+      "path": "mg9/kitap/210.jpg",
+      "is_directory": false,
+      "size": 149488,
+      "created_at": "Mon, 23 Nov 2026 09:20:11 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:11 -0000",
+      "sha1_hash": "b5c806e22fd37832c52266161537ca98923509cd"
+    },
+    {
+      "path": "mg9/kitap/211.jpg",
+      "is_directory": false,
+      "size": 155923,
+      "created_at": "Mon, 23 Nov 2026 09:20:11 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:11 -0000",
+      "sha1_hash": "976a0c265a07efdd54074ee89d397dc798e8a8d3"
+    },
+    {
+      "path": "mg9/kitap/212.jpg",
+      "is_directory": false,
+      "size": 148927,
+      "created_at": "Mon, 23 Nov 2026 09:20:12 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:12 -0000",
+      "sha1_hash": "0a0ded2877eb2384a828347310749dbd73be6f0b"
+    },
+    {
+      "path": "mg9/kitap/213.jpg",
+      "is_directory": false,
+      "size": 125457,
+      "created_at": "Mon, 23 Nov 2026 09:20:12 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:12 -0000",
+      "sha1_hash": "dc371d2d3b2e0a4de34d4aaee8d2d9549d7a36cb"
+    },
+    {
+      "path": "mg9/kitap/214.jpg",
+      "is_directory": false,
+      "size": 160233,
+      "created_at": "Mon, 23 Nov 2026 09:20:13 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:13 -0000",
+      "sha1_hash": "765f62920f4c095e1e0303bb473e1f714614bbbb"
+    },
+    {
+      "path": "mg9/kitap/215.jpg",
+      "is_directory": false,
+      "size": 160717,
+      "created_at": "Mon, 23 Nov 2026 09:20:13 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:13 -0000",
+      "sha1_hash": "956160864d8a2b717e1c5684ae6901de06f3e87f"
+    },
+    {
+      "path": "mg9/kitap/216.jpg",
+      "is_directory": false,
+      "size": 164014,
+      "created_at": "Mon, 23 Nov 2026 09:20:14 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:14 -0000",
+      "sha1_hash": "f996dac5922448dd0dc5cdbf455235b987d59990"
+    },
+    {
+      "path": "mg9/kitap/217.jpg",
+      "is_directory": false,
+      "size": 161278,
+      "created_at": "Mon, 23 Nov 2026 09:20:14 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:14 -0000",
+      "sha1_hash": "51a880060711e3f3da2e0345b7e6f67449ed5964"
+    },
+    {
+      "path": "mg9/kitap/218.jpg",
+      "is_directory": false,
+      "size": 185733,
+      "created_at": "Mon, 23 Nov 2026 09:20:15 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:15 -0000",
+      "sha1_hash": "f1bcaaac651ae7719dacb9ec5accc3f8d0854d87"
+    },
+    {
+      "path": "mg9/kitap/219.jpg",
+      "is_directory": false,
+      "size": 164683,
+      "created_at": "Mon, 23 Nov 2026 09:20:15 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:15 -0000",
+      "sha1_hash": "8006b945f7610c36de9c805b856287de7db3ab0d"
+    },
+    {
+      "path": "mg9/kitap/220.jpg",
+      "is_directory": false,
+      "size": 145226,
+      "created_at": "Mon, 23 Nov 2026 09:20:15 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:15 -0000",
+      "sha1_hash": "09f21116c0d56eb1b9c3a1e6c7060c13bcd4eaa8"
+    },
+    {
+      "path": "mg9/kitap/221.jpg",
+      "is_directory": false,
+      "size": 173706,
+      "created_at": "Mon, 23 Nov 2026 09:20:16 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:16 -0000",
+      "sha1_hash": "3a2f81cd850b934851bf9c68f8d5186aec77b9b4"
+    },
+    {
+      "path": "mg9/kitap/222.jpg",
+      "is_directory": false,
+      "size": 121824,
+      "created_at": "Mon, 23 Nov 2026 09:20:16 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:16 -0000",
+      "sha1_hash": "7336c030759169b3704bb24ae001c5fe0d042d40"
+    },
+    {
+      "path": "mg9/kitap/223.jpg",
+      "is_directory": false,
+      "size": 188909,
+      "created_at": "Mon, 23 Nov 2026 09:20:16 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:16 -0000",
+      "sha1_hash": "0d880b08417931f8537ef61ad90a09e93c3ed897"
+    },
+    {
+      "path": "mg9/kitap/224.jpg",
+      "is_directory": false,
+      "size": 197250,
+      "created_at": "Mon, 23 Nov 2026 09:20:17 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:17 -0000",
+      "sha1_hash": "a42b5c9717350a41da6c66a4ca516bb9fca44ae9"
+    },
+    {
+      "path": "mg9/kitap/225.jpg",
+      "is_directory": false,
+      "size": 159155,
+      "created_at": "Mon, 23 Nov 2026 09:20:17 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:17 -0000",
+      "sha1_hash": "24ec8a97bc06e7ca045ee59f6d72c5edfe03182f"
+    },
+    {
+      "path": "mg9/kitap/226.jpg",
+      "is_directory": false,
+      "size": 180274,
+      "created_at": "Mon, 23 Nov 2026 09:20:18 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:18 -0000",
+      "sha1_hash": "4e9680267b70c6958a9a86287a5fdf7e543fcfaa"
+    },
+    {
+      "path": "mg9/kitap/227.jpg",
+      "is_directory": false,
+      "size": 159931,
+      "created_at": "Mon, 23 Nov 2026 09:20:18 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:18 -0000",
+      "sha1_hash": "632b23d8a81e89e56082e3257530e9701c7d56b9"
+    },
+    {
+      "path": "mg9/kitap/228.jpg",
+      "is_directory": false,
+      "size": 147938,
+      "created_at": "Mon, 23 Nov 2026 09:20:18 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:18 -0000",
+      "sha1_hash": "8212e15a7f25e278867ed675272d3bd873da8f15"
+    },
+    {
+      "path": "mg9/kitap/229.jpg",
+      "is_directory": false,
+      "size": 146374,
+      "created_at": "Mon, 23 Nov 2026 09:20:19 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:19 -0000",
+      "sha1_hash": "36db2107b144267568aee14ab8c5ba8ccbce48de"
+    },
+    {
+      "path": "mg9/kitap/230.jpg",
+      "is_directory": false,
+      "size": 172253,
+      "created_at": "Mon, 23 Nov 2026 09:20:19 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:19 -0000",
+      "sha1_hash": "2dc1b693ae34314342ea2931ae16edebf20b9a28"
+    },
+    {
+      "path": "mg9/kitap/231.jpg",
+      "is_directory": false,
+      "size": 149284,
+      "created_at": "Mon, 23 Nov 2026 09:20:20 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:20 -0000",
+      "sha1_hash": "cb0648b0094b49748fd6b8ac6d29e1ac27587e4e"
+    },
+    {
+      "path": "mg9/kitap/232.jpg",
+      "is_directory": false,
+      "size": 166038,
+      "created_at": "Mon, 23 Nov 2026 09:20:20 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:20 -0000",
+      "sha1_hash": "a617a4bea264935399f7be44c5cbbf501af81bc1"
+    },
+    {
+      "path": "mg9/kitap/233.jpg",
+      "is_directory": false,
+      "size": 185172,
+      "created_at": "Mon, 23 Nov 2026 09:20:20 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:20 -0000",
+      "sha1_hash": "09384d0e0f6d902f4ec91df6f4330b35514818f6"
+    },
+    {
+      "path": "mg9/kitap/234.jpg",
+      "is_directory": false,
+      "size": 139910,
+      "created_at": "Mon, 23 Nov 2026 09:20:21 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:21 -0000",
+      "sha1_hash": "2a3e0e9d72e38e48a94bf2236e35ed294879c211"
+    },
+    {
+      "path": "mg9/kitap/235.jpg",
+      "is_directory": false,
+      "size": 153499,
+      "created_at": "Mon, 23 Nov 2026 09:20:21 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:21 -0000",
+      "sha1_hash": "8f9e1b14fc17934ad00edc2fc943e71b2ee1844d"
+    },
+    {
+      "path": "mg9/kitap/236.jpg",
+      "is_directory": false,
+      "size": 133833,
+      "created_at": "Mon, 23 Nov 2026 09:20:22 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:22 -0000",
+      "sha1_hash": "dc3f6a7a630c89e39170343bde791abb447a9099"
+    },
+    {
+      "path": "mg9/kitap/237.jpg",
+      "is_directory": false,
+      "size": 191208,
+      "created_at": "Mon, 23 Nov 2026 09:20:22 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:22 -0000",
+      "sha1_hash": "3a60a811c9fd9844efcbd1b3b636622d8e3ccb3c"
+    },
+    {
+      "path": "mg9/kitap/238.jpg",
+      "is_directory": false,
+      "size": 146815,
+      "created_at": "Mon, 23 Nov 2026 09:20:22 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:22 -0000",
+      "sha1_hash": "a3a951fd64a38e80b59a90457f56a3089413a2e4"
+    },
+    {
+      "path": "mg9/kitap/239.jpg",
+      "is_directory": false,
+      "size": 122313,
+      "created_at": "Mon, 23 Nov 2026 09:20:23 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:23 -0000",
+      "sha1_hash": "b6346fb39c7f0fe9ead7ca83238a388dba88e338"
+    },
+    {
+      "path": "mg9/kitap/240.jpg",
+      "is_directory": false,
+      "size": 181428,
+      "created_at": "Mon, 23 Nov 2026 09:20:23 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:23 -0000",
+      "sha1_hash": "1450ddb4307f2e16831966b47ef38ee8bf2bb667"
+    },
+    {
+      "path": "mg9/kitap/241.jpg",
+      "is_directory": false,
+      "size": 149601,
+      "created_at": "Mon, 23 Nov 2026 09:20:24 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:24 -0000",
+      "sha1_hash": "9cac1d7950e1246ae8c5e204ebbb73cea72d0e01"
+    },
+    {
+      "path": "mg9/kitap/242.jpg",
+      "is_directory": false,
+      "size": 180964,
+      "created_at": "Mon, 23 Nov 2026 09:20:24 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:24 -0000",
+      "sha1_hash": "4b09de2d724dab73115c4a9729f542cde4345153"
+    },
+    {
+      "path": "mg9/kitap/243.jpg",
+      "is_directory": false,
+      "size": 190206,
+      "created_at": "Mon, 23 Nov 2026 09:20:25 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:25 -0000",
+      "sha1_hash": "729a370badcf97e76ea37f20455e1984c23e3597"
+    },
+    {
+      "path": "mg9/kitap/244.jpg",
+      "is_directory": false,
+      "size": 119068,
+      "created_at": "Mon, 23 Nov 2026 09:20:25 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:25 -0000",
+      "sha1_hash": "218bc264b318b16421dd2b348aefb915684b26b2"
+    },
+    {
+      "path": "mg9/kitap/245.jpg",
+      "is_directory": false,
+      "size": 176028,
+      "created_at": "Mon, 23 Nov 2026 09:20:25 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:25 -0000",
+      "sha1_hash": "38b08ef8de9c7705c78244c2684ebde01a4f7499"
+    },
+    {
+      "path": "mg9/kitap/246.jpg",
+      "is_directory": false,
+      "size": 206087,
+      "created_at": "Mon, 23 Nov 2026 09:20:26 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:26 -0000",
+      "sha1_hash": "3b2ab6e05cbfb40f040e1ccb2d888cc7762924c1"
+    },
+    {
+      "path": "mg9/kitap/247.jpg",
+      "is_directory": false,
+      "size": 184290,
+      "created_at": "Mon, 23 Nov 2026 09:20:26 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:26 -0000",
+      "sha1_hash": "b0e00486adbc8c1d9074962c12a090f7e0aeced2"
+    },
+    {
+      "path": "mg9/kitap/248.jpg",
+      "is_directory": false,
+      "size": 153335,
+      "created_at": "Mon, 23 Nov 2026 09:20:27 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:27 -0000",
+      "sha1_hash": "457a8ae5e679f65a16f43268f398bee6dfc68029"
+    },
+    {
+      "path": "mg9/kitap/249.jpg",
+      "is_directory": false,
+      "size": 145283,
+      "created_at": "Mon, 23 Nov 2026 09:20:27 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:27 -0000",
+      "sha1_hash": "fad819610ca61a27fb0853645445361f9e1e6f67"
+    },
+    {
+      "path": "mg9/kitap/250.jpg",
+      "is_directory": false,
+      "size": 145301,
+      "created_at": "Mon, 23 Nov 2026 09:20:27 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:27 -0000",
+      "sha1_hash": "9f2b355b28120c0f32a947b94aa83c334f1227b8"
+    },
+    {
+      "path": "mg9/kitap/251.jpg",
+      "is_directory": false,
+      "size": 183261,
+      "created_at": "Mon, 23 Nov 2026 09:20:28 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:28 -0000",
+      "sha1_hash": "b54917fa1330c64dc4a38202607061104060cb9a"
+    },
+    {
+      "path": "mg9/kitap/252.jpg",
+      "is_directory": false,
+      "size": 185615,
+      "created_at": "Mon, 23 Nov 2026 09:20:28 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:28 -0000",
+      "sha1_hash": "49e15ce45cfa210a9db48baa6c578a65ab0d3087"
+    },
+    {
+      "path": "mg9/kitap/253.jpg",
+      "is_directory": false,
+      "size": 163975,
+      "created_at": "Mon, 23 Nov 2026 09:20:29 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:29 -0000",
+      "sha1_hash": "585860b6592b8e93c5eac4877505c642b85a0bdb"
+    },
+    {
+      "path": "mg9/kitap/254.jpg",
+      "is_directory": false,
+      "size": 155074,
+      "created_at": "Mon, 23 Nov 2026 09:20:29 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:29 -0000",
+      "sha1_hash": "94fd71b8ce49a560b33836a70fa9b8e5f7b1605f"
+    },
+    {
+      "path": "mg9/kitap/255.jpg",
+      "is_directory": false,
+      "size": 135806,
+      "created_at": "Mon, 23 Nov 2026 09:20:29 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:29 -0000",
+      "sha1_hash": "bfa6f519f509326cc87a0ccca0a7496d35a45a03"
+    },
+    {
+      "path": "mg9/kitap/256.jpg",
+      "is_directory": false,
+      "size": 143167,
+      "created_at": "Mon, 23 Nov 2026 09:20:30 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:30 -0000",
+      "sha1_hash": "af093a9d7f6a7d72a3765b4c7d127e6a3ea1ca4f"
+    },
+    {
+      "path": "mg9/kitap/257.jpg",
+      "is_directory": false,
+      "size": 101111,
+      "created_at": "Mon, 23 Nov 2026 09:20:30 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:30 -0000",
+      "sha1_hash": "a24a1ac35d2750195c40408accc1f71ebd88f3cf"
+    },
+    {
+      "path": "mg9/kitap/258.jpg",
+      "is_directory": false,
+      "size": 129052,
+      "created_at": "Mon, 23 Nov 2026 09:20:30 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:30 -0000",
+      "sha1_hash": "9a4da5376fdba1ddbae17a1e779df164c87fa4c1"
+    },
+    {
+      "path": "mg9/kitap/259.jpg",
+      "is_directory": false,
+      "size": 178436,
+      "created_at": "Mon, 23 Nov 2026 09:20:31 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:31 -0000",
+      "sha1_hash": "73548829f187a5eaf73e44c57f0de307b0702389"
+    },
+    {
+      "path": "mg9/kitap/260.jpg",
+      "is_directory": false,
+      "size": 165137,
+      "created_at": "Mon, 23 Nov 2026 09:20:31 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:31 -0000",
+      "sha1_hash": "057261db666ec5b88e8c149891596d045e185cd4"
+    },
+    {
+      "path": "mg9/kitap/261.jpg",
+      "is_directory": false,
+      "size": 159939,
+      "created_at": "Mon, 23 Nov 2026 09:20:32 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:32 -0000",
+      "sha1_hash": "3b9316f5e768d0e403a862645c62e357e1d275c2"
+    },
+    {
+      "path": "mg9/kitap/262.jpg",
+      "is_directory": false,
+      "size": 146212,
+      "created_at": "Mon, 23 Nov 2026 09:20:32 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:32 -0000",
+      "sha1_hash": "18d50e99665ddbb4ea4e8b94083ed6dfba30a33b"
+    },
+    {
+      "path": "mg9/kitap/263.jpg",
+      "is_directory": false,
+      "size": 114620,
+      "created_at": "Mon, 23 Nov 2026 09:20:32 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:32 -0000",
+      "sha1_hash": "1908bf9dc1b73d0c6f809225091079da166701a3"
+    },
+    {
+      "path": "mg9/kitap/264.jpg",
+      "is_directory": false,
+      "size": 169930,
+      "created_at": "Mon, 23 Nov 2026 09:20:33 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:33 -0000",
+      "sha1_hash": "d216a318521fd93052ffb6c1347a403befe9755c"
+    },
+    {
+      "path": "mg9/kitap/265.jpg",
+      "is_directory": false,
+      "size": 152515,
+      "created_at": "Mon, 23 Nov 2026 09:20:33 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:33 -0000",
+      "sha1_hash": "1a347e04b8c087dfcda61b02c00f8617ccd9b731"
+    },
+    {
+      "path": "mg9/kitap/266.jpg",
+      "is_directory": false,
+      "size": 128805,
+      "created_at": "Mon, 23 Nov 2026 09:20:34 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:34 -0000",
+      "sha1_hash": "ff9517d002a45d0ba0982c73026e5ec5703d8142"
+    },
+    {
+      "path": "mg9/kitap/267.jpg",
+      "is_directory": false,
+      "size": 204008,
+      "created_at": "Mon, 23 Nov 2026 09:20:34 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:34 -0000",
+      "sha1_hash": "75b4f95c4b779a0cb0f553612ee94c84a92445f1"
+    },
+    {
+      "path": "mg9/kitap/268.jpg",
+      "is_directory": false,
+      "size": 213166,
+      "created_at": "Mon, 23 Nov 2026 09:20:35 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:35 -0000",
+      "sha1_hash": "7d558dfbc8250749f7eae337f8385a4d95fb08bb"
+    },
+    {
+      "path": "mg9/kitap/269.jpg",
+      "is_directory": false,
+      "size": 187670,
+      "created_at": "Mon, 23 Nov 2026 09:20:35 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:35 -0000",
+      "sha1_hash": "f9364cf0444b6ada00d1fe1e8c01632951c1818d"
+    },
+    {
+      "path": "mg9/kitap/270.jpg",
+      "is_directory": false,
+      "size": 170057,
+      "created_at": "Mon, 23 Nov 2026 09:20:36 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:36 -0000",
+      "sha1_hash": "527f8e63d2bc6883edbfaf72eec866021d2c4a7b"
+    },
+    {
+      "path": "mg9/kitap/271.jpg",
+      "is_directory": false,
+      "size": 171714,
+      "created_at": "Mon, 23 Nov 2026 09:20:36 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:36 -0000",
+      "sha1_hash": "762715808e60483047d330b86f35e8031a381985"
+    },
+    {
+      "path": "mg9/kitap/272.jpg",
+      "is_directory": false,
+      "size": 141884,
+      "created_at": "Mon, 23 Nov 2026 09:20:37 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:37 -0000",
+      "sha1_hash": "9f3f784e9acce4a4067f26e838d3b5f74e9d0772"
+    },
+    {
+      "path": "mg9/kitap/273.jpg",
+      "is_directory": false,
+      "size": 149344,
+      "created_at": "Mon, 23 Nov 2026 09:20:37 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:37 -0000",
+      "sha1_hash": "418bf7bb51629ac45c085c4349873b51cede1d2b"
+    },
+    {
+      "path": "mg9/kitap/274.jpg",
+      "is_directory": false,
+      "size": 179471,
+      "created_at": "Mon, 23 Nov 2026 09:20:37 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:37 -0000",
+      "sha1_hash": "fa9b7ec7d5fb843742d52ae568aa5817eac829f7"
+    },
+    {
+      "path": "mg9/kitap/275.jpg",
+      "is_directory": false,
+      "size": 181023,
+      "created_at": "Mon, 23 Nov 2026 09:20:38 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:38 -0000",
+      "sha1_hash": "48850a1ad61005c104e34087a17f390b4d295e27"
+    },
+    {
+      "path": "mg9/kitap/276.jpg",
+      "is_directory": false,
+      "size": 176930,
+      "created_at": "Mon, 23 Nov 2026 09:20:38 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:38 -0000",
+      "sha1_hash": "33b664f0103a7ab002a030c21e6a04938b04fff3"
+    },
+    {
+      "path": "mg9/kitap/277.jpg",
+      "is_directory": false,
+      "size": 160619,
+      "created_at": "Mon, 23 Nov 2026 09:20:39 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:39 -0000",
+      "sha1_hash": "804ab8322471b12a7d24ebbb3341d6fcb81f1a9f"
+    },
+    {
+      "path": "mg9/kitap/278.jpg",
+      "is_directory": false,
+      "size": 162055,
+      "created_at": "Mon, 23 Nov 2026 09:20:39 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:39 -0000",
+      "sha1_hash": "e47eed97ae2161180a713b31b31017b3720128df"
+    },
+    {
+      "path": "mg9/kitap/279.jpg",
+      "is_directory": false,
+      "size": 149131,
+      "created_at": "Mon, 23 Nov 2026 09:20:39 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:39 -0000",
+      "sha1_hash": "148adb607ce4a261c1670af4acd7d5731384d4a9"
+    },
+    {
+      "path": "mg9/kitap/280.jpg",
+      "is_directory": false,
+      "size": 181205,
+      "created_at": "Mon, 23 Nov 2026 09:20:40 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:40 -0000",
+      "sha1_hash": "a8efac51f9cb2e392743efa86f5c10334b0ce71d"
+    },
+    {
+      "path": "mg9/kitap/281.jpg",
+      "is_directory": false,
+      "size": 187494,
+      "created_at": "Mon, 23 Nov 2026 09:20:40 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:40 -0000",
+      "sha1_hash": "13522447f86dbf6556e1cb656f161c91b690ef16"
+    },
+    {
+      "path": "mg9/kitap/282.jpg",
+      "is_directory": false,
+      "size": 132842,
+      "created_at": "Mon, 23 Nov 2026 09:20:41 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:41 -0000",
+      "sha1_hash": "decba2739a31fcf33beacd96fe75a4977fda11cd"
+    },
+    {
+      "path": "mg9/kitap/283.jpg",
+      "is_directory": false,
+      "size": 153578,
+      "created_at": "Mon, 23 Nov 2026 09:20:41 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:41 -0000",
+      "sha1_hash": "81ce8c5742b258dba2fd2e500d40c95ac593c8c2"
+    },
+    {
+      "path": "mg9/kitap/284.jpg",
+      "is_directory": false,
+      "size": 166913,
+      "created_at": "Mon, 23 Nov 2026 09:20:41 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:41 -0000",
+      "sha1_hash": "ae5d36a80d6efb183f80fcb59a67deb28f2f4eb9"
+    },
+    {
+      "path": "mg9/kitap/285.jpg",
+      "is_directory": false,
+      "size": 180815,
+      "created_at": "Mon, 23 Nov 2026 09:20:42 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:42 -0000",
+      "sha1_hash": "cb5a083b30d1aca52639c990a6a02b3942b8a828"
+    },
+    {
+      "path": "mg9/kitap/286.jpg",
+      "is_directory": false,
+      "size": 165937,
+      "created_at": "Mon, 23 Nov 2026 09:20:42 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:42 -0000",
+      "sha1_hash": "aff4edce5c937bb41563fcb1c22ec88d1a08725e"
+    },
+    {
+      "path": "mg9/kitap/287.jpg",
+      "is_directory": false,
+      "size": 160819,
+      "created_at": "Mon, 23 Nov 2026 09:20:43 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:43 -0000",
+      "sha1_hash": "518bae7dbbc27ee548ef9d4c0e8761ddcdd8b9cd"
+    },
+    {
+      "path": "mg9/kitap/288.jpg",
+      "is_directory": false,
+      "size": 188999,
+      "created_at": "Mon, 23 Nov 2026 09:20:43 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:43 -0000",
+      "sha1_hash": "e1cd029ffff024edb9bb03c52dabb872f82e0cd1"
+    },
+    {
+      "path": "mg9/kitap/289.jpg",
+      "is_directory": false,
+      "size": 173528,
+      "created_at": "Mon, 23 Nov 2026 09:20:44 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:44 -0000",
+      "sha1_hash": "582453d2cb114092a3a09ebef2bf6bd506ada822"
+    },
+    {
+      "path": "mg9/kitap/290.jpg",
+      "is_directory": false,
+      "size": 139100,
+      "created_at": "Mon, 23 Nov 2026 09:20:44 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:44 -0000",
+      "sha1_hash": "58957caf36f0b432bcc039156a586c7e138720f0"
+    },
+    {
+      "path": "mg9/kitap/291.jpg",
+      "is_directory": false,
+      "size": 163016,
+      "created_at": "Mon, 23 Nov 2026 09:20:44 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:44 -0000",
+      "sha1_hash": "6488f382b5f0f75c07369b9ffed0ffe3356630db"
+    },
+    {
+      "path": "mg9/kitap/292.jpg",
+      "is_directory": false,
+      "size": 103860,
+      "created_at": "Mon, 23 Nov 2026 09:20:45 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:45 -0000",
+      "sha1_hash": "a29d2615518b0a3681be6ebd7ef5072e91a0a68d"
+    },
+    {
+      "path": "mg9/kitap/293.jpg",
+      "is_directory": false,
+      "size": 151228,
+      "created_at": "Mon, 23 Nov 2026 09:20:45 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:45 -0000",
+      "sha1_hash": "b19d44e5a56c5654af1917599c151cd613a2ebd0"
+    },
+    {
+      "path": "mg9/kitap/294.jpg",
+      "is_directory": false,
+      "size": 182381,
+      "created_at": "Mon, 23 Nov 2026 09:20:45 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:45 -0000",
+      "sha1_hash": "034a3e8b1592d7363b6c9f8a2b1667daaefc47bd"
+    },
+    {
+      "path": "mg9/kitap/295.jpg",
+      "is_directory": false,
+      "size": 192273,
+      "created_at": "Mon, 23 Nov 2026 09:20:46 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:46 -0000",
+      "sha1_hash": "9c4bb2bad37bb4e25824a5fdfbdb65cbeffd3a90"
+    },
+    {
+      "path": "mg9/kitap/296.jpg",
+      "is_directory": false,
+      "size": 163514,
+      "created_at": "Mon, 23 Nov 2026 09:20:46 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:46 -0000",
+      "sha1_hash": "b48da92dd63790feef222848c11f6c68263d83ac"
+    },
+    {
+      "path": "mg9/kitap/297.jpg",
+      "is_directory": false,
+      "size": 147705,
+      "created_at": "Mon, 23 Nov 2026 09:20:47 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:47 -0000",
+      "sha1_hash": "7922318e7eebe232a27b60a0323920a2e5e39452"
+    },
+    {
+      "path": "mg9/kitap/298.jpg",
+      "is_directory": false,
+      "size": 141649,
+      "created_at": "Mon, 23 Nov 2026 09:20:47 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:47 -0000",
+      "sha1_hash": "5050ad67da4f91118c4befb27081a7372b897a97"
+    },
+    {
+      "path": "mg9/kitap/299.jpg",
+      "is_directory": false,
+      "size": 164100,
+      "created_at": "Mon, 23 Nov 2026 09:20:48 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:48 -0000",
+      "sha1_hash": "c183550c73fb2fb14ee0f937d3d509d2f76ac07f"
+    },
+    {
+      "path": "mg9/kitap/300.jpg",
+      "is_directory": false,
+      "size": 153723,
+      "created_at": "Mon, 23 Nov 2026 09:20:48 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:48 -0000",
+      "sha1_hash": "629316eba0c5316a201a55729a68cf61396c31d8"
+    },
+    {
+      "path": "mg9/kitap/301.jpg",
+      "is_directory": false,
+      "size": 141621,
+      "created_at": "Mon, 23 Nov 2026 09:20:48 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:48 -0000",
+      "sha1_hash": "837c7ddefa56a5abca2b39c5c5d488ddec41e8ce"
+    },
+    {
+      "path": "mg9/kitap/302.jpg",
+      "is_directory": false,
+      "size": 139599,
+      "created_at": "Mon, 23 Nov 2026 09:20:49 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:49 -0000",
+      "sha1_hash": "8b9a399c5b3a45a5ba0c801f06adaa568482b677"
+    },
+    {
+      "path": "mg9/kitap/303.jpg",
+      "is_directory": false,
+      "size": 77963,
+      "created_at": "Mon, 23 Nov 2026 09:20:49 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:49 -0000",
+      "sha1_hash": "c7238e961d2b6d0cf97e81307e4857682e57f7b0"
+    },
+    {
+      "path": "mg9/kitap/304.jpg",
+      "is_directory": false,
+      "size": 164764,
+      "created_at": "Mon, 23 Nov 2026 09:20:50 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:50 -0000",
+      "sha1_hash": "50b7fb4176c7096b1dcc15809f2ffcdd87018bcb"
+    },
+    {
+      "path": "mg9/kitap/305.jpg",
+      "is_directory": false,
+      "size": 186469,
+      "created_at": "Mon, 23 Nov 2026 09:20:50 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:50 -0000",
+      "sha1_hash": "019f5b79739afc68a10c764c5d96b5261971ec7c"
+    },
+    {
+      "path": "mg9/kitap/306.jpg",
+      "is_directory": false,
+      "size": 180372,
+      "created_at": "Mon, 23 Nov 2026 09:20:50 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:50 -0000",
+      "sha1_hash": "61835fa848fd063c8d99d0f5eb599edf147eb1f8"
+    },
+    {
+      "path": "mg9/kitap/307.jpg",
+      "is_directory": false,
+      "size": 121076,
+      "created_at": "Mon, 23 Nov 2026 09:20:51 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:51 -0000",
+      "sha1_hash": "8898e7271a4a5c60d619dfc0f2cf5f78ac780918"
+    },
+    {
+      "path": "mg9/kitap/308.jpg",
+      "is_directory": false,
+      "size": 122942,
+      "created_at": "Mon, 23 Nov 2026 09:20:51 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:51 -0000",
+      "sha1_hash": "2c94a04c39db4eba8b0e0564587c64fd44a30297"
+    },
+    {
+      "path": "mg9/kitap/309.jpg",
+      "is_directory": false,
+      "size": 104875,
+      "created_at": "Mon, 23 Nov 2026 09:20:51 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:51 -0000",
+      "sha1_hash": "c7180df74ea1ad95a4034d9563d87818c0929072"
+    },
+    {
+      "path": "mg9/kitap/310.jpg",
+      "is_directory": false,
+      "size": 136649,
+      "created_at": "Mon, 23 Nov 2026 09:20:52 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:52 -0000",
+      "sha1_hash": "ecc652d4161e18d3fbb73cff9bfbc3083915179e"
+    },
+    {
+      "path": "mg9/kitap/311.jpg",
+      "is_directory": false,
+      "size": 162015,
+      "created_at": "Mon, 23 Nov 2026 09:20:52 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:52 -0000",
+      "sha1_hash": "4dd6b11a2ac1604046b083d9601d4eccd5326b3f"
+    },
+    {
+      "path": "mg9/kitap/312.jpg",
+      "is_directory": false,
+      "size": 160114,
+      "created_at": "Mon, 23 Nov 2026 09:20:53 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:53 -0000",
+      "sha1_hash": "99a4a924afecd669d44888c90a3ddd261d905875"
+    },
+    {
+      "path": "mg9/kitap/313.jpg",
+      "is_directory": false,
+      "size": 159521,
+      "created_at": "Mon, 23 Nov 2026 09:20:53 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:53 -0000",
+      "sha1_hash": "535b85f709831bb3915854b8bde826d0d62bdd24"
+    },
+    {
+      "path": "mg9/kitap/314.jpg",
+      "is_directory": false,
+      "size": 155627,
+      "created_at": "Mon, 23 Nov 2026 09:20:53 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:53 -0000",
+      "sha1_hash": "5a71764ab696abdb14a2d7c6eddbcc8c075533fb"
+    },
+    {
+      "path": "mg9/kitap/315.jpg",
+      "is_directory": false,
+      "size": 168247,
+      "created_at": "Mon, 23 Nov 2026 09:20:54 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:54 -0000",
+      "sha1_hash": "037faef669f5df4405e09fcfeb288a610869e6f6"
+    },
+    {
+      "path": "mg9/kitap/316.jpg",
+      "is_directory": false,
+      "size": 54557,
+      "created_at": "Mon, 23 Nov 2026 09:20:54 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:54 -0000",
+      "sha1_hash": "1f596d53cec1540b1ec64b52439abd70dc05e166"
+    },
+    {
+      "path": "mg9/kitap/317.jpg",
+      "is_directory": false,
+      "size": 126747,
+      "created_at": "Mon, 23 Nov 2026 09:20:55 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:55 -0000",
+      "sha1_hash": "40f17ab8bc0445e82b1faea5c5f1092677e27c43"
+    },
+    {
+      "path": "mg9/kitap/318.jpg",
+      "is_directory": false,
+      "size": 202233,
+      "created_at": "Mon, 23 Nov 2026 09:20:55 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:20:55 -0000",
+      "sha1_hash": "f33ea499619e301a7984a08358fdbc4216ad8abe"
+    },
+    {
+      "path": "mg9/meslek-etigi",
+      "is_directory": true,
+      "created_at": "Mon, 23 Nov 2026 09:19:26 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:26 -0000"
+    },
+    {
+      "path": "mg9/meslek-etigi/hafta-6.html",
+      "is_directory": false,
+      "size": 19617,
+      "created_at": "Mon, 23 Nov 2026 09:19:26 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:26 -0000",
+      "sha1_hash": "a210a48c08175780271034cd52c4a2dd30a762f4"
+    },
+    {
+      "path": "mg9/meslek-etigi/hafta-7.html",
+      "is_directory": false,
+      "size": 19790,
+      "created_at": "Mon, 23 Nov 2026 09:19:26 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:26 -0000",
+      "sha1_hash": "47f9c29beb34ea2bce191aef42711450d6238a1e"
+    },
+    {
+      "path": "mg9/meslek-etigi/hafta-8.html",
+      "is_directory": false,
+      "size": 21000,
+      "created_at": "Mon, 23 Nov 2026 09:19:26 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:26 -0000",
+      "sha1_hash": "013f14f0cfb2d8eae783233f80c1f069afcfe97c"
+    },
+    {
+      "path": "mg9/meslek-etigi/hafta-9.html",
+      "is_directory": false,
+      "size": 15502,
+      "created_at": "Mon, 23 Nov 2026 09:19:26 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:26 -0000",
+      "sha1_hash": "20057a042b08c0b4645223e567beabea4631059e"
+    },
+    {
+      "path": "mg9/muhasebe-ornekler.js",
+      "is_directory": false,
+      "size": 59110,
+      "created_at": "Mon, 23 Nov 2026 09:18:38 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:38 -0000",
+      "sha1_hash": "30cedcd29ad765080676e60e4c2d9e1fc505675c"
+    },
+    {
+      "path": "mg9/ogretmen-rehberi.html",
+      "is_directory": false,
+      "size": 23667,
+      "created_at": "Mon, 23 Nov 2026 09:18:39 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:39 -0000",
+      "sha1_hash": "8faaf623647976cabde8aa49c0657031f866fb81"
+    },
+    {
+      "path": "mg9/ortak.css",
+      "is_directory": false,
+      "size": 19809,
+      "created_at": "Mon, 23 Nov 2026 09:18:39 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:39 -0000",
+      "sha1_hash": "b6d64201b8c1602386c1d4aa0b863ae560efe62a"
+    },
+    {
+      "path": "mg9/ortak.js",
+      "is_directory": false,
+      "size": 31013,
+      "created_at": "Mon, 23 Nov 2026 09:18:39 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:39 -0000",
+      "sha1_hash": "e729d1819864cfa879d24e4c5d30a35de8c0a56a"
+    },
+    {
+      "path": "mg9/ozet.html",
+      "is_directory": false,
+      "size": 15776,
+      "created_at": "Mon, 23 Nov 2026 09:18:37 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:18:37 -0000",
+      "sha1_hash": "5217b176c62c3b2b2dda9f092f20aac7ecbee76a"
+    },
+    {
+      "path": "mg9/teknoloji",
+      "is_directory": true,
+      "created_at": "Mon, 23 Nov 2026 09:19:27 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:27 -0000"
+    },
+    {
+      "path": "mg9/teknoloji/hafta-25.html",
+      "is_directory": false,
+      "size": 26615,
+      "created_at": "Mon, 23 Nov 2026 09:19:27 -0000",
+      "updated_at": "Mon, 23 Nov 2026 09:19:27 -0000",
+      "sha1_hash": "ce725bc4c185e42d9ccf9a2c5176590f22c2f197"
     },
     {
       "path": "mga09",
